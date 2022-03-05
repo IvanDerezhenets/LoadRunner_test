@@ -1,0 +1,10 @@
+GET /index.php?mylogout= HTTP/1.1
+Referer: http://automationpractice.com/index.php?controller=addresses
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: automationpractice.com
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=WocTdgeiJPnQnxuDUreaFBuSSK7lPYlqpG5PXQ4U03UHcrBXOqo%2Bbb59w0rQlnRufLyorQwbP4mP%2B5ep0NhfRs3mENh8rqQnXbeiViZeC2cV81aGI6%2FWohr1O0FFc8OGjycf5LStwqCSHf8hKkXoN8f%2B%2B%2BjY%2BipATI%2FbwDHIW9iSxRwNBMEW7t4v%2FdG9ZWHl9PD7ehAEPWNlg%2BO2ITl5utA%2FPECHXQ9Xs7LeyCFIRBlgwFNLm1NHQjQS6LJ4lk6TB5kSme0p5r9LHCvoDBBzUboIhTb2rfYu94HrSLzhLt7tauwvoLM%2FS5lucjwHzvp%2B8Qs6gLt8P4MKDbtCJiL2G2Awe9QNWPPEi9TDVxA6DQPsLexbjEF3Fe6K3KLKPilCITxQSyU472mkmsPHr7Ua%2FEQb8A4q5tru%2BdcBzHc61K9uO5oVxh1CXQkC7wMX3p4N000324
+

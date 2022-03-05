@@ -1,0 +1,199 @@
+3e1d
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 " lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="en"><![endif]-->
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Addresses - My Store</title>
+		<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" /> 
+		<meta name="apple-mobile-web-app-capable" content="yes" /> 
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1461205423" />
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1461205423" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/global.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/responsive-tables.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/uniform.default.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/addresses.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/product_list.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktags/blocktags.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/modules/themeconfigurator/css/hooks.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/productcomments/productcomments.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+			<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+		<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Close';
+var FancyboxI18nNext = 'Next';
+var FancyboxI18nPrev = 'Previous';
+var added_to_wishlist = 'Added to your wishlist.';
+var ajax_allowed = true;
+var ajaxsearch = true;
+var baseDir = 'http://automationpractice.com/';
+var baseUri = 'http://automationpractice.com/index.php';
+var blocksearch_type = 'top';
+var contentOnly = false;
+var customizationIdMessage = 'Customization #';
+var delete_txt = 'Delete';
+var displayList = false;
+var freeProductTranslation = 'Free!';
+var freeShippingTranslation = 'Free shipping!';
+var generated_date = 1645611917;
+var id_lang = 1;
+var img_dir = 'http://automationpractice.com/themes/default-bootstrap/img/';
+var instantsearch = false;
+var isGuest = 0;
+var isLogged = 1;
+var loggin_required = 'You must be logged in to manage your wishlist.';
+var mywishlist_url = 'http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist';
+var page_name = 'addresses';
+var placeholder_blocknewsletter = 'Enter your e-mail';
+var priceDisplayMethod = 1;
+var priceDisplayPrecision = 2;
+var quickView = true;
+var removingLinkText = 'remove this product from my cart';
+var roundMode = 2;
+var search_url = 'http://automationpractice.com/index.php?controller=search';
+var static_token = '702845b18252838dcfe693b22f279bf0';
+var token = '279ce434016d7cf72c9f127af85c4679';
+var usingSecureMode = false;
+var wishlistProductsIds = [{"id_product":"1","quantity":"2","product_quantity":"0","name":"Faded Short Sleeve T-shirts","id_product_attribute":"0","priority":"1","link_rewrite":"faded-short-sleeve-tshirts","category_rewrite":"tshirts","attributes_small":""}];
+</script>
+
+		<script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.easing.js"></script>
+		<script type="text/javascript" src="/js/tools.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/global.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/10-bootstrap.min.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/products-comparison.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.scrollTo.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.serialScroll.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/tools/treeManagement.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+		<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+			
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,600&amp;subset=latin,latin-ext" type="text/css" media="all" />
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body id="addresses" class="addresses hide-left-column hide-right-column lang_en">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+					<div class="banner">
+						<div class="container">
+							<div class="row">
+								<a href="" title="">
+	<img class="img-responsive" src="http://automationpractice.com/modules/blockbanner/img/sale70.png" alt="" title="" width="1170" height="65" />
+</a>
+
+							</div>
+						</div>
+					</div>
+					<div class="nav">
+						<div class="container">
+							<div class="row">
+								<nav><!-- Block user information module NAV  -->
+	<div class="header_user_info">
+		<a href="http://automationpractice.com/index.php?controller=my-account" title="View my customer account" class="account" rel="nofollow"><span>Ivan Ivan</span></a>
+	</div>
+<div class="header_user_info">
+			<a class="logout" href="http://automationpractice.com/index.php?mylogout=" rel="nofollow" title="Log me out">
+			Sign out
+		</a>
+	</div>
+<!-- /Block usmodule NAV -->
+<!-- Block languages module -->
+<!-- /Block languages module -->
+<div id="contact-link">
+	<a href="http://automationpractice.com/index.php?controller=contact" title="Contact Us">Contact us</a>
+</div>
+	<span class="shop-phone">
+		<i class="icon-phone"></i>Call us now: <strong>0123-456-789</strong>
+	</span>
+</nav>
+							</div>
+						</div>
+					</div>
+					<div>
+						<div class="container">
+							<div class="row">
+								<div id="header_logo">
+									<a href="http://automationpractice.com/" title="My Store">
+										<img class="logo img-responsive" src="http://automationpractice.com/img/logo.jpg" alt="My Store" width="350" height="99"/>
+									</a>
+								</div>
+								<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="http://automationpractice.com/index.php?controller=search" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Search" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Search</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP --><!-- MODULE Block cart -->
+<div class="col-sm-4 clearfix">
+	<div class="shopping_cart">
+		<a href="http://automationpractice.com/index.php?controller=order" title="View my shopping cart" rel="nofollow">
+			<b>Cart</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Product</span>
+			<span class="ajax_cart_product_txt_s unvisible">Products</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(empty)</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							No products
+						</p>
+												<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost">
+																			Free shipping!
+																	</span>
+								<span>
+									Shipping
+								</span>
+							</div>
+																					<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">$0.00</span>
+								<span>Total</span>
+		

@@ -1,0 +1,15 @@
+[t20]
+FileName1=t20.htm
+URL1=http://automationpractice.com/index.php?controller=order&multi-shipping=
+Total=3
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=t20_RequestBody.txt
+ResponseHeaderFile=t20_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_20.xml
+FileName2=t20_bankwire.png
+URL2=http://automationpractice.com/themes/default-bootstrap/img/bankwire.png
+FileName3=t20_cheque.png
+URL3=http://automationpractice.com/themes/default-bootstrap/img/cheque.png
+[ProtocolInfo]
+ProtocolId=QTWeb

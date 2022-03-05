@@ -1,0 +1,11 @@
+GET /index.php?mylogout= HTTP/1.1
+Host: automationpractice.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://automationpractice.com/index.php?id_category=9&controller=category
+Accept-Encoding: gzip, deflate
+Accept-Language: ru
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYQm9LS8wPJ9q4CAPhzE%2BEiC9zgWSBgg64XzyZ3ZBN1LENDvjSwhknuQdZ7TFLpdjEZroRoya9FgaF%2BQ0AKj2vkjWMZWWNDUi09z8fJMORTu%2F8Vl0BHmq5lgRHrOT4VaOqi7kcouVn13bEnRp%2FJQEqHXdn2Xp8OdvO6LKVkPuT8jURs44E1rzVm8pD3x8wZqNP8%2FIBH4U3mrIwciZbp33UKdwiqOLk%2B2Gi340b2%2B7QDFZ76jLSDnz3sQp%2BZZWom3QtWQkHe11VlWqCmNHfEQdH9Sur7XdM6IMeiqIV2fmGVYVHbIDXg8XF%2Fcuud9xTvwXJKiRA2WxueIhlNhbDIx%2Fix%2FliFAyofBrDcmQyV9Ev9OWWvEeJygf7Q9eUVc7eK0svf8k7BiYUiC5YkTkv6ffvSHME9C1860a%2BjsveaesMqy%2F000334
+

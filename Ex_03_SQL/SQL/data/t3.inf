@@ -1,0 +1,17 @@
+[t3]
+FileName1=t3.htm
+URL1=https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
+Total=4
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3__ate.track.html
+URL2=https://v1.addthisedge.com/live/boost/xa-4cb75b821386eec8/_ate.track.config_resp
+FileName3=t3_300lo.html
+URL3=https://m.addthis.com/live/red_lojson/300lo.json?si=621e5e5937407a78&bkl=0&bl=1&pdt=1888&sid=621e5e5937407a78&pub=xa-4cb75b821386eec8&rev=v8.28.8-wp&ln=ru&pc=men&cb=0&ab=-&dp=www.sql.ru&fp=blogs%2Fiyun%2F2267&fr=&of=0&pd=0&irt=0&vcl=0&md=0&ct=1&tct=0&abt=0&cdn=0&pi=1&rb=0&gen=100&chr=windows-1251&colc=1646157401732&jsl=1&uvs=621e5e59fae36422000&skipb=1&callback=addthis.cbs.jsonp__76580960170740680
+FileName4=t3_favicon.ico
+URL4=https://www.sql.ru/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

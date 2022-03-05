@@ -1,0 +1,11 @@
+GET /index.php?mylogout= HTTP/1.1
+Host: automationpractice.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist
+Accept-Encoding: gzip, deflate
+Accept-Language: ru
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYUmlBIRhgkgSXu7znKVnUe8iulbnsUCR7TBpk115uqzSmA5iuX7jNi%2BgT0MCssuxr70%2BF%2BDPLoSYJJDnpdqVgjrgPxbt975EkM7OXjJgUKjuuvT3Hwwgb9OkXoHHIg6coqlJZn0bQbVSv8S9UegJUtklUCO9Mq5NmBZZHdV6%2B%2BT%2FnWxwNCO1vJ7Oi60vdD0JDD%2FmfWruk6HukAuXvUG5KpCQNkr5MrnD24iXeSehJWG09pE5yOs5xWRtFeCbPZsfzWKuIkWZvCOBYv96rXVGIep9c2Igx8DQ3Yp3gD3yqfuei4vb%2Fp9nRR23JCeQfe41hzYIx9ncXW7MUNjFIJIasbHHnu%2FUQlQjkB%2Ft1XUx%2Fi9YEHHp4ACJpgz2JbtoA1eRVWSS4ocf4Eej3D2i4RIEefLP%2F38Qq%2BCN%2BcABqFL4vHIa000327
+

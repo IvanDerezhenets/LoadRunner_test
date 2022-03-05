@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 23 Feb 2022 10:07:09 GMT
+Server: Apache
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Set-Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYUmlBIRhgkgSXu7znKVnUe8iulbnsUCR7TBpk115uqzSmA5iuX7jNi%2BgT0MCssuxr70%2BF%2BDPLoSYJJDnpdqVgjrgPxbt975EkM7OXjJgUKjuuvT3Hwwgb9OkXoHHIg6coqlJZn0bQbVSv8S9UegJUtklUCO9Mq5NmBZZHdV6%2B%2BT%2FnWxwNCO1vJ7Oi60vdD0JDD%2FmfWruk6HukAuXvUG5KpCQNkr5MrnD24iXeSehJWG09pE5yOs5xWRtFeCbPZsfzWKuIkWZvCOBYv96rXVGIep9c2Igx8DQ3Yp3gD3yqfuei4vb%2Fp9nRR23JCeQfe41hzYIx9ncXW7MUNjFIJIasbHHnu%2FUQlQjkB%2Ft1XUx%2Fi9YEHHp4ACJpgz2JbtoA1eRVWSS4ocf4Eej3D2i4RIEefLP%2F38Qq%2BCN%2BcABqFL4vHIa000327; expires=Tue, 15-Mar-2022 10:07:09 GMT; Max-Age=1728000; path=/; domain=automationpractice.com; httponly
+Keep-Alive: timeout=3, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

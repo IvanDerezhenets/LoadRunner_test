@@ -1,0 +1,11 @@
+GET /index.php?controller=address HTTP/1.1
+Host: automationpractice.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://automationpractice.com/index.php?controller=addresses
+Accept-Encoding: gzip, deflate
+Accept-Language: ru
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYaQyt54LjWG1SpFNf4hFukWnwoBC8HuxFAdn6eK9lz5NIZJNUS5N2I7LIhRKqkkEvVeBkNx6Bt7F5IZKtija1rnrjcI2QotFYseY5mHIeu583VSMMKWb9OIYZBveHsJEk7SOiCRf02StyAZlXfRvYRMXRtfGYyR0aviFhRQrH8iEeHT%2FlAfM%2Fde2PfrAgzCR%2BCRwl90qo2dlQW%2FP6E4EnoGuR%2BvDcKwOV8KgtIlGv858Y57uha6NQeBAsTUn7xomeU1z9%2F%2FfKHb8Nr0fRc96%2FqsINuon8ZyhoM%2BBi%2FQ3YY7V2LBuBHM%2Bcnxdeear63suQkhjAeXsBlN5S75Mql0KZKbjfp3YslpJm0OpeUZzNKjIcf9gojbquf6bMtjSeWCZlYA5DqWWrxzRvTwl3s%2FOWU14VRRQjCPhTjTM9WfaFlji000332
+

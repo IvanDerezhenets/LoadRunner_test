@@ -1,0 +1,11 @@
+[t21]
+FileName1=t21.htm
+URL1=http://automationpractice.com/index.php?fc=module&module=bankwire&controller=payment
+Total=1
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_21.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

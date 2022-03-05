@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Vanya\Documents\VuGen\Scripts\SQL
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\vanya\documents\vugen\scripts\sql\\logfile.log
+c:\users\vanya\documents\vugen\scripts\sql\\combined_SQL.c
+c:\users\vanya\documents\vugen\scripts\sql\\pre_cci.c

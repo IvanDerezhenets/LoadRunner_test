@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 10.	[MsgId: MMSG-10545]
+Action.c(322): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(331): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(331): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(335): web_submit_data("index.php_7") started  	[MsgId: MMSG-26355]
+Action.c(335): Redirecting "http://automationpractice.com/index.php?fc=module&module=bankwire&controller=validation" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(335): To location "http://automationpractice.com/index.php?controller=order-confirmation&id_cart=4282145&id_module=3&id_order=406534&key=506da3c69546d65b3e851e980a9967ff"  	[MsgId: MMSG-26693]
+Action.c(335): Warning -26665: HTTP Status Code is missing or invalid. Assuming "200 OK"  	[MsgId: MWAR-26665]
+Action.c(335): Error -26366: "Text=Your order on My Store is complete." not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+

@@ -1,0 +1,80 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: index.php",
+                "infFile": "t1.inf",
+                "time": 1646124047064
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: index.php_2",
+                "infFile": "t3.inf",
+                "time": 1646124048846
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: My addresses",
+                "infFile": "t4.inf",
+                "time": 1646124057394
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: Add a new address",
+                "infFile": "t5.inf",
+                "time": 1646124059339
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: index.php_3",
+                "infFile": "t6.inf",
+                "time": 1646124066343
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Sign out",
+                "infFile": "t7.inf",
+                "time": 1646124068190
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_begin",
+                "rawStartTime": 1646124041709,
+                "rawEndTime": 1646124047078,
+                "thinkTime": 0.0,
+                "wastedTime": 0.22142672538757325
+            },
+            {
+                "transactionName": "2_login",
+                "rawStartTime": 1646124047095,
+                "rawEndTime": 1646124048853,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014218330383300782
+            },
+            {
+                "transactionName": "3_adress",
+                "rawStartTime": 1646124048869,
+                "rawEndTime": 1646124057404,
+                "thinkTime": 0.0,
+                "wastedTime": 0.24176788330078126
+            },
+            {
+                "transactionName": "4_new_adress",
+                "rawStartTime": 1646124057420,
+                "rawEndTime": 1646124066346,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2852499485015869
+            },
+            {
+                "transactionName": "5_logout",
+                "rawStartTime": 1646124066357,
+                "rawEndTime": 1646124068199,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008632421493530274
+            }
+        ]
+    }
+]

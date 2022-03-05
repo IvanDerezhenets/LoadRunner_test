@@ -1,0 +1,15 @@
+[t7]
+FileName1=t7.htm
+URL1=http://automationpractice.com/index.php?controller=order
+Total=3
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=t7_RequestBody.txt
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_order-carrier.html
+URL2=http://automationpractice.com/themes/default-bootstrap/js/order-carrier.js
+FileName3=t7_2.jpg
+URL3=http://automationpractice.com/img/s/2.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

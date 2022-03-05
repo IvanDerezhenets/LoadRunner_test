@@ -1,0 +1,15 @@
+POST /index.php?controller=authentication HTTP/1.1
+Host: automationpractice.com
+Connection: keep-alive
+Content-Length: 174
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://automationpractice.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://automationpractice.com/index.php?controller=authentication&back=http%3A%2F%2Fautomationpractice.com%2Findex.php%3Ffc%3Dmodule%26module%3Dblockwishlist%26controller%3Dmywishlist
+Accept-Encoding: gzip, deflate
+Accept-Language: ru
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYQm9LS8wPJ9q4CAPhzE%2BEiC9zgWSBgg64XzyZ3ZBN1LENDvjSwhknuQdZ7TFLpdjETJEmEbNBDhW4Zli6pVSD0lEh7IWo1%2FhuOd89YnciXLSEnHRVCogdT6P8JgoJncEvC84Yr3cme7SMVIZfhISPNw%3D000118
+

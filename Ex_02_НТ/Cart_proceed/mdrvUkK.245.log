@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(84): Registered web_reg_find successful for "Text=Showing 1 - 5 of 5 items" (count=2)  	[MsgId: MMSG-26364]
+Action.c(84): web_url("Dresses") was successful, 229309 body bytes, 6699 header bytes, 92 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(96): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(96): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(104): web_submit_data("index.php_3") started  	[MsgId: MMSG-26355]
+Action.c(104): Warning -26665: HTTP Status Code is missing or invalid. Assuming "200 OK"  	[MsgId: MWAR-26665]
+Action.c(104): Error -35049: No match found for the requested parameter "id_address_delivery". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

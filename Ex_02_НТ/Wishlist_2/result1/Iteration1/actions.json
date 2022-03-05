@@ -1,0 +1,74 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: index.php",
+                "infFile": "t3.inf",
+                "time": 1646126132945
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: index.php_2",
+                "infFile": "t6.inf",
+                "time": 1646126136131
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: My wishlists",
+                "infFile": "t7.inf",
+                "time": 1646126139467
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: index.php_3",
+                "infFile": "t8.inf",
+                "time": 1646126141459
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Sign out",
+                "infFile": "t9.inf",
+                "time": 1646126144833
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_begin",
+                "rawStartTime": 1646126129159,
+                "rawEndTime": 1646126132959,
+                "thinkTime": 0.0,
+                "wastedTime": 0.21511435508728028
+            },
+            {
+                "transactionName": "2_login",
+                "rawStartTime": 1646126132975,
+                "rawEndTime": 1646126136140,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013078689575195313
+            },
+            {
+                "transactionName": "3_wishlist",
+                "rawStartTime": 1646126136156,
+                "rawEndTime": 1646126139474,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019937515258789064
+            },
+            {
+                "transactionName": "4_add_wishlist",
+                "rawStartTime": 1646126139489,
+                "rawEndTime": 1646126141461,
+                "thinkTime": 0.0,
+                "wastedTime": 0.016907453536987306
+            },
+            {
+                "transactionName": "5_logout",
+                "rawStartTime": 1646126141476,
+                "rawEndTime": 1646126144846,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00763392448425293
+            }
+        ]
+    }
+]

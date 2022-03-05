@@ -1,0 +1,11 @@
+GET /index.php?fc=module&module=bankwire&controller=payment HTTP/1.1
+Host: automationpractice.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://automationpractice.com/index.php?controller=order&multi-shipping=
+Accept-Encoding: gzip, deflate
+Accept-Language: ru
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYaP2m3pFErVYivVH8M7sUfgYY9KsBtC4Iakdq57A9Fqo5hGLP3RGbtSEwK57ru3TU4fWXFRyh68IV7ZLnWaltfUQVbjDUQ5pbUc8ifb5GzCFrRSS9gCB2U0Cugg%2F1Eqy222j%2BwWZBThHu7PURllhJltRCg1f%2BoMNs78DiFS87By4sWFunftiZ58VlWRh4%2BT64%2FMf%2FBNNN7N9ra9bh6Xcjl9XbAjLzo8DhClnygkTeuafjMIFfwdHyYxyn0HnlLSw%2FA4D%2FaOJ%2BhXWo9x7RQF4D%2FUF2PcMn7%2BKFlOpXBrn9H6rgEhG59wmpC5PjrIyWp9E%2FNdJzAYfeI2pXaCkFfYOMNA%2F8T6YFCZsYUE6XtbpyWyB4wcOUa7HoPCadY9lAkqGPSDYK9jywL31lNKuVfBnuSdEYz9%2BPnltiw6dprKIkMNSkI64IHcmz%2Bpa%2BA7SvlFbJA%3D%3D000347
+

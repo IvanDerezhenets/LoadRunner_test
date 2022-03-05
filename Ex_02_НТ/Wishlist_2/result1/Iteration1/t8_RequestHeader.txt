@@ -1,0 +1,12 @@
+POST /index.php?fc=module&module=blockwishlist&controller=mywishlist HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: *
+Accept: */*
+Connection: Keep-Alive
+Host: automationpractice.com
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=WocTdgeiJPnQnxuDUreaFB7Ux3165AkqVkXtQndBaPf%2BAKwhAWv6LY5RrlQoZqM9ry3XG%2BWZCGxlcAQiQtmkkbBHlqnnyoH7%2Fx2CKTk%2BKk6faAxhsHCDgVA544EQuwGg326xdzsVJkWTeagEdBvS5jNl19sWqjIZo46buENWhEU%2BC%2BrJRysq27fA5fkfTp3Y%2BK96UefsUNpLbRrFzaAbHLG%2BFEZj96w7T4LxVoKoFsbJicerNYCBZBZl14yirSnM2DF2mUoygpN4Bf95HWPuH6hRIU6FA5Pi35d3IRqwVBoAqcyw1xyi9yeRleIVXQU0M4NA67xYkM8E%2FsVS5A4NmKC4F3TAb7DTBeRh9viuMTh3Zxt3YpwHz5BSLXoEKpBMP7bJi9i%2BQ5M%2FX55ZGI9q8KJ2X%2FFZH8FSE8ynp%2FSUMM%2Fjik8v%2BARgfICv666Nh%2Fnu000324
+Content-Length: 63
+

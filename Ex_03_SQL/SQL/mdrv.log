@@ -1,0 +1,95 @@
+Virtual User Script started at: 03.03.2022 21:03:16
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (янв 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Chrome  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\Vanya\Documents\VuGen\Scripts\SQL\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "1_begin" started.
+Action.c(6): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(6): Warning: The string '2' with parameter delimiters is not a parameter.
+Action.c(6): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(11): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(11): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(16): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(16): Warning: The string '2' with parameter delimiters is not a parameter.
+Action.c(16): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(21): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(21): Warning: The string '1' with parameter delimiters is not a parameter.
+Action.c(21): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(26): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(26): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(32): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(32): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(37): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(37): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(44): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(44): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(49): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(49): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(56): web_url("2267") started  	[MsgId: MMSG-26355]
+Action.c(56): Found resource "https://www.sql.ru/css/screen.css?v=1" in HTML "https://www.sql.ru/blogs/iyun/2267"  	[MsgId: MMSG-26659]
+Action.c(56): Found resource "https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" in HTML "https://www.sql.ru/blogs/iyun/2267"  	[MsgId: MMSG-26659]
+Action.c(56): Found resource "https://www.sql.ru/js/jquery.tagcloud.js" in HTML "https://www.sql.ru/blogs/iyun/2267"  	[MsgId: MMSG-26659]
+Action.c(56): Found resource "https://www.sql.ru/js/utils.js" in HTML "https://www.sql.ru/blogs/iyun/2267"  	[MsgId: MMSG-26659]
+Action.c(56): Found resource "https://www.google-analytics.com/analytics.js" in HTML "https://www.sql.ru/blogs/iyun/2267"  	[MsgId: MMSG-26659]
+Action.c(56): Found resource "https://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cb75b821386eec8" in HTML "https://www.sql.ru/blogs/iyun/2267"  	[MsgId: MMSG-26659]
+Action.c(56): Notify: Saving Parameter "day = 13".
+Action.c(56): Notify: Saving Parameter "month = ноя".
+Action.c(56): Notify: Saving Parameter "year = 19".
+Action.c(56): Notify: Saving Parameter "comment_count = 5".
+Action.c(56): Notify: Saving Parameter "first_comment = Кастанеда против всех. Уверенно побеждает".
+Action.c(56): Notify: Saving Parameter "first_author = Goras".
+Action.c(56): Notify: Saving Parameter "all_author_1 = Goras".
+Action.c(56): Notify: Saving Parameter "all_author_2 = Goras".
+Action.c(56): Notify: Saving Parameter "all_author_3 = voodoos".
+Action.c(56): Notify: Saving Parameter "all_author_4 = Алекс Давыдов".
+Action.c(56): Notify: Saving Parameter "all_author_5 = EgorGrozniy".
+Action.c(56): Notify: Saving Parameter "procomment = #add-comment".
+Action.c(56): Notify: Saving Parameter "all_tags_1 = acidvscap".
+Action.c(56): Notify: Saving Parameter "all_tags_2 = agile-этап".
+Action.c(56): Notify: Saving Parameter "all_tags_3 = asis".
+Action.c(56): Notify: Saving Parameter "all_tags_4 = it-продукт".
+Action.c(56): Notify: Saving Parameter "all_tags_5 = it-система".
+Action.c(56): Notify: Saving Parameter "all_tags_6 = tobe".
+Action.c(56): Notify: Saving Parameter "all_tags_7 = voltdb".
+Action.c(56): Notify: Saving Parameter "all_tags_8 = vr".
+Action.c(56): Notify: Saving Parameter "all_tags_9 = антикризисное управление".
+Action.c(56): Notify: Saving Parameter "all_tags_10 = антикризисные коммуникации".
+Action.c(56): Notify: Saving Parameter "all_tags_11 = валидация".
+Action.c(56): Notify: Saving Parameter "all_tags_12 = верификация".
+Action.c(56): Notify: Saving Parameter "all_tags_13 = искуственный интеллект".
+Action.c(56): Notify: Saving Parameter "all_tags_14 = квантовый компьютер".
+Action.c(56): Notify: Saving Parameter "all_tags_15 = кубит".
+Action.c(56): Notify: Saving Parameter "all_tags_16 = мультиверс".
+Action.c(56): Notify: Saving Parameter "all_tags_17 = проект".
+Action.c(56): Notify: Saving Parameter "all_tags_18 = структура реальности".
+Action.c(56): Notify: Saving Parameter "all_tags_19 = технологическая сингулярность".
+Action.c(56): Notify: Saving Parameter "all_tags_20 = vr".
+Action.c(56): Notify: Saving Parameter "all_author_count = 5".
+Action.c(56): Notify: Saving Parameter "all_tags_count = 20".
+Action.c(56): web_url("2267") was successful, 515581 body bytes, 3951 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(66): Notify: Parameter Substitution: parameter "day" =  "13"
+Action.c(66): Notify: Parameter Substitution: parameter "month" =  "ноя"
+Action.c(66): Notify: Parameter Substitution: parameter "year" =  "19"
+Action.c(66): 13-ноя-19
+Action.c(68): Notify: Parameter Substitution: parameter "comment_count" =  "5"
+Action.c(68): 5
+Action.c(70): Notify: Parameter Substitution: parameter "first_comment" =  "Кастанеда против всех. Уверенно побеждает"
+Action.c(70): Кастанеда против всех. Уверенно побеждает
+Action.c(72): Notify: Parameter Substitution: parameter "first_author" =  "Goras"
+Action.c(72): Goras
+Action.c(74): Notify: Parameter Substitution: parameter "procomment" =  "#add-comment"
+Action.c(74): #add-comment
+Action.c(76): Notify: Transaction "1_begin" ended with a "Pass" status (Duration: 2,2870 Wasted Time: 0,3194).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 15956), ended OK."

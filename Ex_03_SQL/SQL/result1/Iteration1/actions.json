@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: 2267",
+                "infFile": "t10.inf",
+                "time": 1646330598573
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_begin",
+                "rawStartTime": 1646330596378,
+                "rawEndTime": 1646330598665,
+                "thinkTime": 0.0,
+                "wastedTime": 0.31938743591308596
+            }
+        ]
+    }
+]

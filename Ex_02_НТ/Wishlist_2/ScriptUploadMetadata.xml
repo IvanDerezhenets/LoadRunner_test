@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>Wishlist_2</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="Wishlist_2.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="Wishlist_2.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="login.dat" Filter="2" />
+    <FileEntry Name="combined_Wishlist_2.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="15581039440.idx" Filter="1" />
+    <FileEntry Name="232160174440.idx" Filter="1" />
+    <FileEntry Name="23216017444_1Hl.389.idx" Filter="1" />
+    <FileEntry Name="23216017444_7l6.167.idx" Filter="1" />
+    <FileEntry Name="23216017444_cpM.623.idx" Filter="1" />
+    <FileEntry Name="23216017444_lN6.655.idx" Filter="1" />
+    <FileEntry Name="23216017444_mL9.221.idx" Filter="1" />
+    <FileEntry Name="23216017444_o3k.873.idx" Filter="1" />
+    <FileEntry Name="23216017444_oSm.415.idx" Filter="1" />
+    <FileEntry Name="23216017444_PXY.959.idx" Filter="1" />
+    <FileEntry Name="23216017444_Sfh.969.idx" Filter="1" />
+    <FileEntry Name="23216017444_tyl.665.idx" Filter="1" />
+    <FileEntry Name="23216017444_UjR.911.idx" Filter="1" />
+    <FileEntry Name="23216017444_YiR.953.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv9MH.959.log" Filter="1" />
+    <FileEntry Name="mdrvcpM.623.log" Filter="1" />
+    <FileEntry Name="mdrvfxl.605.log" Filter="1" />
+    <FileEntry Name="mdrvgy2.21.log" Filter="1" />
+    <FileEntry Name="mdrvJ73.465.log" Filter="1" />
+    <FileEntry Name="mdrvLDP.19.log" Filter="1" />
+    <FileEntry Name="mdrvLoB.107.log" Filter="1" />
+    <FileEntry Name="mdrvMfk.111.log" Filter="1" />
+    <FileEntry Name="mdrvMiX.823.log" Filter="1" />
+    <FileEntry Name="mdrvo34.205.log" Filter="1" />
+    <FileEntry Name="mdrvpEk.817.log" Filter="1" />
+    <FileEntry Name="mdrvpXR.913.log" Filter="1" />
+    <FileEntry Name="mdrvtos.33.log" Filter="1" />
+    <FileEntry Name="mdrvv1L.629.log" Filter="1" />
+    <FileEntry Name="mdrvw6K.147.log" Filter="1" />
+    <FileEntry Name="mdrvX1P.745.log" Filter="1" />
+    <FileEntry Name="mdrvY6L.643.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="password.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="Wishlist_2.c.pickle" Filter="1" />
+    <FileEntry Name="Wishlist_2.ci" Filter="1" />
+    <FileEntry Name="Wishlist_2.prm.bak" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

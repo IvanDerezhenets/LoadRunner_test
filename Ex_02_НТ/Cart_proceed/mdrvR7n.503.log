@@ -1,0 +1,26 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(226): web_submit_data("index.php_6") was successful, 33287 body bytes, 1050 header bytes, 44 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(249): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(249): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(257): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(257): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(261): web_url("Pay by bank wire (order processing will be longer)") started  	[MsgId: MMSG-26355]
+Action.c(261): Warning -26665: HTTP Status Code is missing or invalid. Assuming "200 OK"  	[MsgId: MWAR-26665]
+Action.c(261): Error -35049: No match found for the requested parameter "controller_2". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+Action.c(261): Error -26366: "Text=You have chosen to pay by bank wire. Here is a short summary of your order" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(159): web_url("Proceed to checkout") was successful, 47731 body bytes, 616 header bytes, 37 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(176): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(176): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(185): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(185): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(189): web_submit_data("index.php_5") started  	[MsgId: MMSG-26355]
+Action.c(189): Warning -26665: HTTP Status Code is missing or invalid. Assuming "200 OK"  	[MsgId: MWAR-26665]
+Action.c(189): Error -35049: No match found for the requested parameter "CorrelationParameter". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+Action.c(189): Error -26366: "Text=Choose a shipping option for this address" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

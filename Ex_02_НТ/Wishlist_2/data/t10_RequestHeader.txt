@@ -1,0 +1,15 @@
+POST /index.php?rand=1645605813285 HTTP/1.1
+Host: automationpractice.com
+Connection: keep-alive
+Content-Length: 89
+Accept: application/json, text/javascript, */*; q=0.01
+cache-control: no-cache
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://automationpractice.com
+Referer: http://automationpractice.com/index.php?id_category=9&controller=category
+Accept-Encoding: gzip, deflate
+Accept-Language: ru
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYUhqoAtFpNj3OwNZwcE6zP2cdm%2BswfpevaXjfWCHUav6PBvJUCKF80djfySzQEnjRo6gUq5myfaTPozkimwatLr27%2BQfqbfKAkXC%2F3J0hP4ZrAVvJ9IYerHi7eq1ujmuJ25MAmusfZHr3dvbPb%2FdKla0EcreAzhb2%2FmO0b6zLHcZmrFpRfBEzRrqBtg1nLEmUqg1T3ZRGLpycS7MSya%2F%2BA1b2GDTbGIt1rfEKlBHObEXzezcoUb8ErK4vF1niosWij08LLn%2BiGDsnOaeTollcfmp2f%2B3z3miv3jgc9LuVNbZg0E2FtmoHRIUDSvY%2F%2FmKpaKCYa%2FsHY1RqFRzws0Mkko69lyz0SJUbEcMAntFb87uOeWWU2VhX%2BsGIqG9x6NS7Mc2BV%2BMIoCiLAVrup3rtHCru8RKp1IoyVuon16vbH1c000332
+

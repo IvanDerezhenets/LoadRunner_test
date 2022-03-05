@@ -1,0 +1,4943 @@
+﻿[General]
+TableCount=19
+
+[Table_0]
+FactTableName=Breakdown_meter
+DimensionCount=25
+
+[Breakdown_meter_Dim0]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Breakdown_map
+NumValues=5
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=5
+Dim_0=APPLICATION
+Dim_1=IMAGE
+Dim_2=Page
+Dim_3=Resource
+Dim_4=TEXT
+LikeMode=0
+
+[Breakdown_meter_Dim1]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Breakdown_map
+NumValues=121
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=121
+Dim_0=automa....com/js/tools.js
+Dim_1=automa.../10-home_default.jpg
+Dim_2=automa.../12-home_default.jpg
+Dim_3=automa.../16-home_default.jpg
+Dim_4=automa.../1-small_default.jpg
+Dim_5=automa.../20-home_default.jpg
+Dim_6=automa.../7-small_default.jpg
+Dim_7=automa.../8-small_default.jpg
+Dim_8=automa.../blockbanner.css
+Dim_9=automa.../blocklayered.js
+Dim_10=automa.../blocksearch.css
+Dim_11=automa.../blocktopmenu.js
+Dim_12=automa.../blockviewed.css
+Dim_13=automa.../c/3-0_thumb.jpg
+Dim_14=automa.../c/3-1_thumb.jpg
+Dim_15=automa.../cart-summary.js
+Dim_16=automa...art/ajax-cart.js
+Dim_17=automa...com/img/logo.jpg
+Dim_18=automa...css/category.css
+Dim_19=automa...gs/blocktags.css
+Dim_20=automa...h/blocksearch.js
+Dim_21=automa...kstore/store.jpg
+Dim_22=automa...load/highdpi.css
+Dim_23=automa...m/img/loader.gif
+Dim_24=automa...m/js/validate.js
+Dim_25=automa...or/css/hooks.css
+Dim_26=automa...p/css/global.css
+Dim_27=automa...p/css/scenes.css
+Dim_28=automa...p/js/category.js
+Dim_29=automa...r/img/sale70.png
+Dim_30=automa...rap/js/global.js
+Dim_31=automa...rt/blockcart.css
+Dim_32=automa...s/hoverIntent.js
+Dim_33=automa...s/my-account.css
+Dim_34=automa...ss/addresses.css
+Dim_35=automati....php?mylogout=
+Dim_36=automati....php?mylogout= (main URL)
+Dim_37=automati....slider.min.js
+Dim_38=automati....ui.slider.css
+Dim_39=automati....widget.min.js
+Dim_40=automati...=1645606426876
+Dim_41=automati...=1645606426876 (main URL)
+Dim_42=automati...-1.11.0.min.js
+Dim_43=automati...971431caf0f730
+Dim_44=automati...ack=my-account
+Dim_45=automati...ack=my-account (main URL)
+Dim_46=automati...authentication
+Dim_47=automati...authentication (main URL)
+Dim_48=automati...ax-wishlist.js
+Dim_49=automati...categories.css
+Dim_50=automati...ckuserinfo.css
+Dim_51=automati...ckwishlist.css
+Dim_52=automati...-comparison.js
+Dim_53=automati...ctcomments.css
+Dim_54=automati...currencies.css
+Dim_55=automati...der-address.js
+Dim_56=automati...der-carrier.js
+Dim_57=automati...e-1.2.1.min.js
+Dim_58=automati...eManagement.js
+Dim_59=automati...entication.css
+Dim_60=automati...erialScroll.js
+Dim_61=automati...hentication.js
+Dim_62=automati...h-modified.css
+Dim_63=automati...i.mouse.min.js
+Dim_64=automati...ive-tables.css
+Dim_65=automati...klanguages.css
+Dim_66=automati...knewsletter.js
+Dim_67=automati...ler=my-account
+Dim_68=automati...ler=mywishlist
+Dim_69=automati...ler=mywishlist (main URL)
+Dim_70=automati...ler=validation
+Dim_71=automati...ler=validation (main URL)
+Dim_72=automati...ll_default.jpg
+Dim_73=automati...ller=addresses
+Dim_74=automati...ller=addresses (main URL)
+Dim_75=automati...me_default.jpg
+Dim_76=automati...newsletter.css
+Dim_77=automati...ntroller=order
+Dim_78=automati...ntroller=order (main URL)
+Dim_79=automati...ockcontact.css
+Dim_80=automati...ocklayered.css
+Dim_81=automati...ocktopmenu.css
+Dim_82=automati...oduct_list.css
+Dim_83=automati...oller=category
+Dim_84=automati...oller=category (main URL)
+Dim_85=automati...otstrap.min.js
+Dim_86=automati...r=order&step=1
+Dim_87=automati...r=order&step=1 (main URL)
+Dim_88=automati...rm.default.css
+Dim_89=automati...rm-modified.js
+Dim_90=automati...roller=address
+Dim_91=automati...roller=address (main URL)
+Dim_92=automati...roller=payment
+Dim_93=automati...roller=payment (main URL)
+Dim_94=automati...rt_default.jpg
+Dim_95=automati...ry.bxslider.js
+Dim_96=automati...ry.fancybox.js
+Dim_97=automati...ry.scrollTo.js
+Dim_98=automati...ry.ui.core.css
+Dim_99=automati...sh-modified.js
+Dim_100=automati...sManagement.js
+Dim_101=automati...storage.min.js
+Dim_102=automati...tManagement.js
+Dim_103=automati...tocomplete.css
+Dim_104=automati...uery.easing.js
+Dim_105=automati...ui.core.min.js
+Dim_106=automati...ulti-shipping=
+Dim_107=automati...ulti-shipping= (main URL)
+Dim_108=automati...um_default.jpg
+Dim_109=automati...utocomplete.js
+Dim_110=automati...y.fancybox.css
+Dim_111=automati...y.typewatch.js
+Dim_112=automati...y.ui.theme.css
+Dim_113=automation.../img/s/2.jpg
+Dim_114=automation...dium_default.jpg
+Dim_115=automation...dium_default.jpg<1>
+Dim_116=automation...mall_default.jpg
+Dim_117=automation...mall_default.jpg<1>
+Dim_118=automation...mall_default.jpg<2>
+Dim_119=fonts.go...atin_latin-ext
+Dim_120=index.php_2_Action_46
+LikeMode=0
+
+[Breakdown_meter_Dim2]
+InternalDimName=Connection
+Dimension=Connection
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=15.971000
+
+[Breakdown_meter_Dim3]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=121
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=363
+Dim_0=0.151523
+Dim_1=1.938938
+Dim_2=automa....com/js/tools.js
+Dim_3=0.148078
+Dim_4=1.307175
+Dim_5=automa.../10-home_default.jpg
+Dim_6=0.148023
+Dim_7=0.328672
+Dim_8=automa.../12-home_default.jpg
+Dim_9=0.150963
+Dim_10=0.617753
+Dim_11=automa.../16-home_default.jpg
+Dim_12=0.180682
+Dim_13=1.204019
+Dim_14=automa.../1-small_default.jpg
+Dim_15=0.147182
+Dim_16=0.617664
+Dim_17=automa.../20-home_default.jpg
+Dim_18=0.180239
+Dim_19=1.072113
+Dim_20=automa.../7-small_default.jpg
+Dim_21=0.180670
+Dim_22=1.070984
+Dim_23=automa.../8-small_default.jpg
+Dim_24=0.142528
+Dim_25=0.784989
+Dim_26=automa.../blockbanner.css
+Dim_27=0.165324
+Dim_28=0.631558
+Dim_29=automa.../blocklayered.js
+Dim_30=0.145085
+Dim_31=1.073510
+Dim_32=automa.../blocksearch.css
+Dim_33=0.145340
+Dim_34=0.836548
+Dim_35=automa.../blocktopmenu.js
+Dim_36=0.142065
+Dim_37=0.780446
+Dim_38=automa.../blockviewed.css
+Dim_39=0.147504
+Dim_40=0.582850
+Dim_41=automa.../c/3-0_thumb.jpg
+Dim_42=0.146977
+Dim_43=0.674943
+Dim_44=automa.../c/3-1_thumb.jpg
+Dim_45=0.333682
+Dim_46=0.756297
+Dim_47=automa.../cart-summary.js
+Dim_48=0.154580
+Dim_49=0.987491
+Dim_50=automa...art/ajax-cart.js
+Dim_51=0.146667
+Dim_52=0.562758
+Dim_53=automa...com/img/logo.jpg
+Dim_54=0.153137
+Dim_55=0.685650
+Dim_56=automa...css/category.css
+Dim_57=0.142777
+Dim_58=0.522176
+Dim_59=automa...gs/blocktags.css
+Dim_60=0.146126
+Dim_61=0.516834
+Dim_62=automa...h/blocksearch.js
+Dim_63=0.151871
+Dim_64=0.520917
+Dim_65=automa...kstore/store.jpg
+Dim_66=0.287920
+Dim_67=1.507626
+Dim_68=automa...load/highdpi.css
+Dim_69=0.150772
+Dim_70=0.271404
+Dim_71=automa...m/img/loader.gif
+Dim_72=0.147988
+Dim_73=1.454171
+Dim_74=automa...m/js/validate.js
+Dim_75=0.143600
+Dim_76=0.613474
+Dim_77=automa...or/css/hooks.css
+Dim_78=0.849996
+Dim_79=3.835671
+Dim_80=automa...p/css/global.css
+Dim_81=0.294715
+Dim_82=15.330549
+Dim_83=automa...p/css/scenes.css
+Dim_84=0.145253
+Dim_85=0.600090
+Dim_86=automa...p/js/category.js
+Dim_87=0.149897
+Dim_88=0.746725
+Dim_89=automa...r/img/sale70.png
+Dim_90=0.149990
+Dim_91=1.139517
+Dim_92=automa...rap/js/global.js
+Dim_93=0.149278
+Dim_94=1.220813
+Dim_95=automa...rt/blockcart.css
+Dim_96=0.144673
+Dim_97=0.574241
+Dim_98=automa...s/hoverIntent.js
+Dim_99=0.146502
+Dim_100=1.110246
+Dim_101=automa...s/my-account.css
+Dim_102=0.147187
+Dim_103=1.182004
+Dim_104=automa...ss/addresses.css
+Dim_105=0.451037
+Dim_106=6.697097
+Dim_107=automati....php?mylogout=
+Dim_108=1.766624
+Dim_109=28.471305
+Dim_110=automati....php?mylogout= (main URL)
+Dim_111=0.149322
+Dim_112=0.299840
+Dim_113=automati....slider.min.js
+Dim_114=0.314301
+Dim_115=0.828234
+Dim_116=automati....ui.slider.css
+Dim_117=0.148896
+Dim_118=0.552848
+Dim_119=automati....widget.min.js
+Dim_120=0.897472
+Dim_121=7.287615
+Dim_122=automati...=1645606426876
+Dim_123=0.897609
+Dim_124=7.287696
+Dim_125=automati...=1645606426876 (main URL)
+Dim_126=0.181135
+Dim_127=2.728300
+Dim_128=automati...-1.11.0.min.js
+Dim_129=0.470428
+Dim_130=11.613796
+Dim_131=automati...971431caf0f730
+Dim_132=0.283076
+Dim_133=12.193823
+Dim_134=automati...ack=my-account
+Dim_135=0.283435
+Dim_136=18.011701
+Dim_137=automati...ack=my-account (main URL)
+Dim_138=0.530283
+Dim_139=10.189746
+Dim_140=automati...authentication
+Dim_141=1.405020
+Dim_142=18.797427
+Dim_143=automati...authentication (main URL)
+Dim_144=0.146637
+Dim_145=0.504363
+Dim_146=automati...ax-wishlist.js
+Dim_147=0.148811
+Dim_148=0.964197
+Dim_149=automati...categories.css
+Dim_150=0.141125
+Dim_151=0.718587
+Dim_152=automati...ckuserinfo.css
+Dim_153=0.144011
+Dim_154=0.632987
+Dim_155=automati...ckwishlist.css
+Dim_156=0.143558
+Dim_157=1.570530
+Dim_158=automati...-comparison.js
+Dim_159=0.147267
+Dim_160=0.625685
+Dim_161=automati...ctcomments.css
+Dim_162=0.144030
+Dim_163=0.628297
+Dim_164=automati...currencies.css
+Dim_165=0.153227
+Dim_166=0.865236
+Dim_167=automati...der-address.js
+Dim_168=0.148680
+Dim_169=0.839903
+Dim_170=automati...der-carrier.js
+Dim_171=0.145001
+Dim_172=0.344209
+Dim_173=automati...e-1.2.1.min.js
+Dim_174=0.145018
+Dim_175=0.610785
+Dim_176=automati...eManagement.js
+Dim_177=0.141861
+Dim_178=0.785526
+Dim_179=automati...entication.css
+Dim_180=0.144263
+Dim_181=0.781693
+Dim_182=automati...erialScroll.js
+Dim_183=0.144976
+Dim_184=1.762706
+Dim_185=automati...hentication.js
+Dim_186=0.143065
+Dim_187=0.556151
+Dim_188=automati...h-modified.css
+Dim_189=0.146554
+Dim_190=0.280513
+Dim_191=automati...i.mouse.min.js
+Dim_192=0.287703
+Dim_193=1.484079
+Dim_194=automati...ive-tables.css
+Dim_195=0.145264
+Dim_196=0.712922
+Dim_197=automati...klanguages.css
+Dim_198=0.144808
+Dim_199=0.537727
+Dim_200=automati...knewsletter.js
+Dim_201=0.751751
+Dim_202=10.507595
+Dim_203=automati...ler=my-account
+Dim_204=0.870823
+Dim_205=13.650147
+Dim_206=automati...ler=mywishlist
+Dim_207=1.407072
+Dim_208=24.014517
+Dim_209=automati...ler=mywishlist (main URL)
+Dim_210=1.117174
+Dim_211=12.875783
+Dim_212=automati...ler=validation
+Dim_213=2.154408
+Dim_214=23.919128
+Dim_215=automati...ler=validation (main URL)
+Dim_216=0.146852
+Dim_217=1.210108
+Dim_218=automati...ll_default.jpg
+Dim_219=0.561393
+Dim_220=25.288311
+Dim_221=automati...ller=addresses
+Dim_222=2.364597
+Dim_223=25.288399
+Dim_224=automati...ller=addresses (main URL)
+Dim_225=0.148274
+Dim_226=0.464004
+Dim_227=automati...me_default.jpg
+Dim_228=0.146021
+Dim_229=0.966900
+Dim_230=automati...newsletter.css
+Dim_231=1.270993
+Dim_232=11.499171
+Dim_233=automati...ntroller=order
+Dim_234=1.569962
+Dim_235=11.499260
+Dim_236=automati...ntroller=order (main URL)
+Dim_237=0.142913
+Dim_238=0.969869
+Dim_239=automati...ockcontact.css
+Dim_240=0.150211
+Dim_241=0.956672
+Dim_242=automati...ocklayered.css
+Dim_243=0.144010
+Dim_244=0.558282
+Dim_245=automati...ocktopmenu.css
+Dim_246=0.149716
+Dim_247=1.015823
+Dim_248=automati...oduct_list.css
+Dim_249=1.554287
+Dim_250=11.868381
+Dim_251=automati...oller=category
+Dim_252=2.062152
+Dim_253=23.390222
+Dim_254=automati...oller=category (main URL)
+Dim_255=0.154200
+Dim_256=1.312975
+Dim_257=automati...otstrap.min.js
+Dim_258=0.163192
+Dim_259=18.899951
+Dim_260=automati...r=order&step=1
+Dim_261=0.164840
+Dim_262=18.900039
+Dim_263=automati...r=order&step=1 (main URL)
+Dim_264=0.295665
+Dim_265=1.507684
+Dim_266=automati...rm.default.css
+Dim_267=0.159805
+Dim_268=1.459632
+Dim_269=automati...rm-modified.js
+Dim_270=0.508518
+Dim_271=11.587426
+Dim_272=automati...roller=address
+Dim_273=0.674775
+Dim_274=28.641734
+Dim_275=automati...roller=address (main URL)
+Dim_276=1.094531
+Dim_277=10.487392
+Dim_278=automati...roller=payment
+Dim_279=1.094624
+Dim_280=10.487543
+Dim_281=automati...roller=payment (main URL)
+Dim_282=0.191276
+Dim_283=0.806035
+Dim_284=automati...rt_default.jpg
+Dim_285=0.150123
+Dim_286=0.615495
+Dim_287=automati...ry.bxslider.js
+Dim_288=0.154166
+Dim_289=1.085456
+Dim_290=automati...ry.fancybox.js
+Dim_291=0.144648
+Dim_292=0.942376
+Dim_293=automati...ry.scrollTo.js
+Dim_294=0.300248
+Dim_295=0.687091
+Dim_296=automati...ry.ui.core.css
+Dim_297=0.143977
+Dim_298=1.037028
+Dim_299=automati...sh-modified.js
+Dim_300=0.147000
+Dim_301=1.394032
+Dim_302=automati...sManagement.js
+Dim_303=0.144021
+Dim_304=1.267960
+Dim_305=automati...storage.min.js
+Dim_306=0.142629
+Dim_307=1.664892
+Dim_308=automati...tManagement.js
+Dim_309=0.143583
+Dim_310=0.965948
+Dim_311=automati...tocomplete.css
+Dim_312=0.143028
+Dim_313=0.878042
+Dim_314=automati...uery.easing.js
+Dim_315=0.150080
+Dim_316=0.460911
+Dim_317=automati...ui.core.min.js
+Dim_318=1.270285
+Dim_319=12.977023
+Dim_320=automati...ulti-shipping=
+Dim_321=1.270381
+Dim_322=12.977117
+Dim_323=automati...ulti-shipping= (main URL)
+Dim_324=0.144776
+Dim_325=1.167887
+Dim_326=automati...um_default.jpg
+Dim_327=0.150272
+Dim_328=0.536746
+Dim_329=automati...utocomplete.js
+Dim_330=0.292038
+Dim_331=1.577561
+Dim_332=automati...y.fancybox.css
+Dim_333=0.144923
+Dim_334=1.593690
+Dim_335=automati...y.typewatch.js
+Dim_336=0.450454
+Dim_337=1.164991
+Dim_338=automati...y.ui.theme.css
+Dim_339=0.288085
+Dim_340=1.534294
+Dim_341=automation.../img/s/2.jpg
+Dim_342=0.146593
+Dim_343=0.359744
+Dim_344=automation...dium_default.jpg
+Dim_345=0.148715
+Dim_346=0.714569
+Dim_347=automation...dium_default.jpg<1>
+Dim_348=0.147914
+Dim_349=0.332719
+Dim_350=automation...mall_default.jpg
+Dim_351=0.148228
+Dim_352=0.474242
+Dim_353=automation...mall_default.jpg<1>
+Dim_354=0.155148
+Dim_355=1.072119
+Dim_356=automation...mall_default.jpg<2>
+Dim_357=0.074414
+Dim_358=15.142239
+Dim_359=fonts.go...atin_latin-ext
+Dim_360=5.151452
+Dim_361=5.151452
+Dim_362=index.php_2_Action_46
+
+[Breakdown_meter_Dim4]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Breakdown_meter_Dim5]
+InternalDimName=Size
+Dimension=Size
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=1095.487305
+
+[Breakdown_meter_Dim6]
+InternalDimName=DNS Resolution
+Dimension=DNS Resolution
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.003000
+
+[Breakdown_meter_Dim7]
+InternalDimName=SendSize
+Dimension=SendSize
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=37.041992
+
+[Breakdown_meter_Dim8]
+InternalDimName=First Buffer
+Dimension=First Buffer
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=26.657000
+
+[Breakdown_meter_Dim9]
+InternalDimName=SSL Handshaking
+Dimension=SSL Handshaking
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Breakdown_meter_Dim10]
+InternalDimName=Network
+Dimension=Network
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=16.107000
+
+[Breakdown_meter_Dim11]
+InternalDimName=Server
+Dimension=Server
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=26.072000
+
+[Breakdown_meter_Dim12]
+InternalDimName=Error
+Dimension=Error
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.633000
+
+[Breakdown_meter_Dim13]
+InternalDimName=Client
+Dimension=Client
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.047000
+
+[Breakdown_meter_Dim14]
+InternalDimName=Receive
+Dimension=Receive
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=14.178000
+
+[Breakdown_meter_Dim15]
+InternalDimName=FTP Authentication
+Dimension=FTP Authentication
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Breakdown_meter_Dim16]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[Breakdown_meter_Dim17]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[Breakdown_meter_Dim18]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=133
+Dim_0=3
+Dim_1=4
+Dim_2=5
+Dim_3=6
+Dim_4=7
+Dim_5=8
+Dim_6=9
+Dim_7=10
+Dim_8=11
+Dim_9=12
+Dim_10=13
+Dim_11=14
+Dim_12=15
+Dim_13=16
+Dim_14=17
+Dim_15=18
+Dim_16=19
+Dim_17=20
+Dim_18=21
+Dim_19=22
+Dim_20=23
+Dim_21=24
+Dim_22=25
+Dim_23=26
+Dim_24=27
+Dim_25=28
+Dim_26=29
+Dim_27=30
+Dim_28=31
+Dim_29=32
+Dim_30=33
+Dim_31=34
+Dim_32=35
+Dim_33=36
+Dim_34=37
+Dim_35=38
+Dim_36=39
+Dim_37=40
+Dim_38=41
+Dim_39=42
+Dim_40=43
+Dim_41=44
+Dim_42=45
+Dim_43=46
+Dim_44=47
+Dim_45=48
+Dim_46=49
+Dim_47=50
+Dim_48=51
+Dim_49=52
+Dim_50=53
+Dim_51=54
+Dim_52=55
+Dim_53=56
+Dim_54=57
+Dim_55=58
+Dim_56=59
+Dim_57=60
+Dim_58=62
+Dim_59=63
+Dim_60=64
+Dim_61=65
+Dim_62=67
+Dim_63=68
+Dim_64=69
+Dim_65=70
+Dim_66=71
+Dim_67=72
+Dim_68=73
+Dim_69=74
+Dim_70=75
+Dim_71=76
+Dim_72=78
+Dim_73=79
+Dim_74=81
+Dim_75=82
+Dim_76=83
+Dim_77=85
+Dim_78=86
+Dim_79=87
+Dim_80=89
+Dim_81=90
+Dim_82=91
+Dim_83=92
+Dim_84=94
+Dim_85=95
+Dim_86=96
+Dim_87=97
+Dim_88=98
+Dim_89=99
+Dim_90=100
+Dim_91=101
+Dim_92=102
+Dim_93=103
+Dim_94=104
+Dim_95=105
+Dim_96=106
+Dim_97=107
+Dim_98=108
+Dim_99=109
+Dim_100=110
+Dim_101=111
+Dim_102=112
+Dim_103=113
+Dim_104=114
+Dim_105=115
+Dim_106=116
+Dim_107=117
+Dim_108=118
+Dim_109=119
+Dim_110=120
+Dim_111=122
+Dim_112=123
+Dim_113=124
+Dim_114=125
+Dim_115=126
+Dim_116=127
+Dim_117=128
+Dim_118=129
+Dim_119=130
+Dim_120=131
+Dim_121=132
+Dim_122=133
+Dim_123=134
+Dim_124=135
+Dim_125=136
+Dim_126=137
+Dim_127=138
+Dim_128=139
+Dim_129=140
+Dim_130=141
+Dim_131=142
+Dim_132=143
+AsParent=1
+BasedOnTableName=
+
+[Breakdown_meter_Dim19]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Breakdown_meter_Dim20]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Breakdown_meter_Dim21]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Breakdown_meter_Dim22]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Breakdown_meter_Dim23]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Breakdown_meter_Dim24]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_1]
+FactTableName=DataPoint_meter
+DimensionCount=11
+
+[DataPoint_meter_Dim0]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=DataPoint_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[DataPoint_meter_Dim1]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[DataPoint_meter_Dim2]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=DataPoint_meter
+NumValues=4
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=12
+Dim_0=1.000000
+Dim_1=1.000000
+Dim_2=Connection closed by server
+Dim_3=1.000000
+Dim_4=9.000000
+Dim_5=Connection Shutdowns
+Dim_6=-6.000000
+Dim_7=7.000000
+Dim_8=Connections
+Dim_9=1.000000
+Dim_10=9.000000
+Dim_11=New Connections
+
+[DataPoint_meter_Dim3]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[DataPoint_meter_Dim4]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[DataPoint_meter_Dim5]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[DataPoint_meter_Dim6]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[DataPoint_meter_Dim7]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[DataPoint_meter_Dim8]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[DataPoint_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[DataPoint_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_2]
+FactTableName=Diagnostic_meter
+DimensionCount=7
+
+[Diagnostic_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[Diagnostic_meter_Dim1]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Diagnostic_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Diagnostic_meter_Dim2]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Diagnostic_meter_Dim3]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[Diagnostic_meter_Dim4]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[Diagnostic_meter_Dim5]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[Diagnostic_meter_Dim6]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Table_3]
+FactTableName=Error_meter
+DimensionCount=14
+
+[Error_meter_Dim0]
+InternalDimName=Father ID
+Dimension=Father ID
+EqualFlag=1
+DimensionTableName=Error_meter
+NumValues=4
+DimensionType=DiscreteNumber
+UseEscapeSequence=1
+DimCount=4
+Dim_0=-1
+Dim_1=2
+Dim_2=11
+Dim_3=19
+LikeMode=0
+
+[Error_meter_Dim1]
+InternalDimName=Line Number
+Dimension=Line Number
+EqualFlag=1
+DimensionTableName=Error_meter
+NumValues=6
+DimensionType=DiscreteNumber
+UseEscapeSequence=1
+DimCount=6
+Dim_0=12
+Dim_1=42
+Dim_2=46
+Dim_3=84
+Dim_4=159
+Dim_5=335
+LikeMode=0
+
+[Error_meter_Dim2]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Error_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Error_meter_Dim3]
+InternalDimName=Error Message
+Dimension=Error Message
+EqualFlag=1
+DimensionTableName=ErrorMessage
+NumValues=11
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=11
+Dim_0=Action.c(12) Error -26366 "Text=Already registered" not found for web_reg_find
+Dim_1=Action.c(159) Error -26366 "Text=Choose a delivery address" not found for web_reg_find
+Dim_2=Action.c(159) Error -35049 No match found for the requested parameter "controller_1". Check whether the requested regular expression exists in the response data
+Dim_3=Action.c(335) Error -26366 "Text=Your order on My Store is complete." not found for web_reg_find
+Dim_4=Action.c(42) Error -26366 "Text=Already registered" not found for web_reg_find
+Dim_5=Action.c(42) Error -35049 No match found for the requested parameter "back". Check whether the requested regular expression exists in the response data
+Dim_6=Action.c(42) Error -35049 No match found for the requested parameter "controller". Check whether the requested regular expression exists in the response data
+Dim_7=Action.c(46) Error -26366 "Text=Sign out" not found for web_reg_find
+Dim_8=Action.c(46) Error -26374 The above "not found" error(s) may be explained by header and body byte counts being 1519 and 0\c respectively.
+Dim_9=Action.c(46) Error -35049 No match found for the requested parameter "token". Check whether the requested regular expression exists in the response data
+Dim_10=Action.c(84) Error -26366 "Text=Showing 1 - 5 of 5 items" not found for web_reg_find
+LikeMode=0
+
+[Error_meter_Dim4]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[Error_meter_Dim5]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[Error_meter_Dim6]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[Error_meter_Dim7]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[Error_meter_Dim8]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Error_meter_Dim9]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Error_meter_Dim10]
+InternalDimName=Action Name
+Dimension=Action Name
+EqualFlag=1
+DimensionTableName=ScriptActions
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=Action
+LikeMode=0
+
+[Error_meter_Dim11]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Error_meter_Dim12]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Error_meter_Dim13]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_4]
+FactTableName=Event_meter
+DimensionCount=13
+
+[Event_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[Event_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[Event_meter_Dim2]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=12
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=36
+Dim_0=0.283651
+Dim_1=18.011890
+Dim_2=1_begin
+Dim_3=1.405261
+Dim_4=25.228871
+Dim_5=2_login
+Dim_6=2.364774
+Dim_7=25.288580
+Dim_8=3_adress
+Dim_9=0.153595
+Dim_10=27.250442
+Dim_11=3_choose_clothes
+Dim_12=1.407195
+Dim_13=11.692012
+Dim_14=3_wishlist
+Dim_15=2.811096
+Dim_16=24.014697
+Dim_17=4_add_wishlist
+Dim_18=11.604656
+Dim_19=88.885523
+Dim_20=4_checkout
+Dim_21=4.155864
+Dim_22=37.398341
+Dim_23=4_new_adress
+Dim_24=1.766790
+Dim_25=29.092607
+Dim_26=5_logout
+Dim_27=0.283697
+Dim_28=152.575963
+Dim_29=Action_Transaction
+Dim_30=0.000010
+Dim_31=0.000027
+Dim_32=vuser_end_Transaction
+Dim_33=0.000172
+Dim_34=0.000511
+Dim_35=vuser_init_Transaction
+
+[Event_meter_Dim3]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Event_meter_Dim4]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[Event_meter_Dim5]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[Event_meter_Dim6]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=12
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=61
+Dim_4=66
+Dim_5=77
+Dim_6=80
+Dim_7=84
+Dim_8=88
+Dim_9=93
+Dim_10=121
+Dim_11=144
+AsParent=1
+BasedOnTableName=
+
+[Event_meter_Dim7]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Event_meter_Dim8]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Event_meter_Dim9]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Event_meter_Dim10]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Event_meter_Dim11]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Event_meter_Dim12]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_5]
+FactTableName=J2EETBD_meter
+DimensionCount=7
+
+[J2EETBD_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[J2EETBD_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[J2EETBD_meter_Dim2]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=J2EETBD_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[J2EETBD_meter_Dim3]
+InternalDimName=Num Exception
+Dimension=Num Exception
+EqualFlag=1
+DimensionTableName=J2EETBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[J2EETBD_meter_Dim4]
+InternalDimName=Num Timeout
+Dimension=Num Timeout
+EqualFlag=1
+DimensionTableName=J2EETBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[J2EETBD_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[J2EETBD_meter_Dim6]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Table_6]
+FactTableName=J2EETBD_Net_meter
+DimensionCount=6
+
+[J2EETBD_Net_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[J2EETBD_Net_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[J2EETBD_Net_meter_Dim2]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=J2EETBD_Net_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[J2EETBD_Net_meter_Dim3]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[J2EETBD_Net_meter_Dim4]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[J2EETBD_Net_meter_Dim5]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Table_7]
+FactTableName=Monitor_meter
+DimensionCount=9
+
+[Monitor_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[Monitor_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[Monitor_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[Monitor_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[Monitor_meter_Dim4]
+InternalDimName=Father ID
+Dimension=Father ID
+EqualFlag=1
+DimensionTableName=Monitor_meter
+NumValues=1
+DimensionType=DiscreteNumber
+UseEscapeSequence=1
+DimCount=1
+Dim_0=-1
+LikeMode=0
+
+[Monitor_meter_Dim5]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Monitor_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Monitor_meter_Dim6]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=Monitor_meter
+NumValues=1
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=3
+Dim_0=2.593000
+Dim_1=74.711000
+Dim_2=% загруженности процессора (Сведения о процессоре _Total)
+
+[Monitor_meter_Dim7]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Monitor_meter_Dim8]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Table_8]
+FactTableName=Sap_osm_meter
+DimensionCount=6
+
+[Sap_osm_meter_Dim0]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Sap_osm_meter_Dim1]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Sap_osm_meter_Dim2]
+InternalDimName=PageOutKB
+Dimension=PageOutKB
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_osm_meter_Dim3]
+InternalDimName=PageInKB
+Dimension=PageInKB
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_osm_meter_Dim4]
+InternalDimName=Disks
+Dimension=Disks
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_osm_meter_Dim5]
+InternalDimName=CPU
+Dimension=CPU
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Table_9]
+FactTableName=Sap_sr_meter
+DimensionCount=34
+
+[Sap_sr_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[Sap_sr_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[Sap_sr_meter_Dim2]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[Sap_sr_meter_Dim3]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[Sap_sr_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[Sap_sr_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Sap_sr_meter_Dim6]
+InternalDimName=Roll In Time
+Dimension=Roll In Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim7]
+InternalDimName=Output Len
+Dimension=Output Len
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim8]
+InternalDimName=Input Len
+Dimension=Input Len
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim9]
+InternalDimName=Queue Time
+Dimension=Queue Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim10]
+InternalDimName=Cpu Time
+Dimension=Cpu Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim11]
+InternalDimName=Resp Time
+Dimension=Resp Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim12]
+InternalDimName=Lock Time
+Dimension=Lock Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim13]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Sap_sr_meter_Dim14]
+InternalDimName=Database Time
+Dimension=Database Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim15]
+InternalDimName=Start Time
+Dimension=Start Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim16]
+InternalDimName=Rfc Time
+Dimension=Rfc Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim17]
+InternalDimName=Network Time
+Dimension=Network Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim18]
+InternalDimName=End-User Time
+Dimension=End-User Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim19]
+InternalDimName=GuiNet Time
+Dimension=GuiNet Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim20]
+InternalDimName=Roll Out Time
+Dimension=Roll Out Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim21]
+InternalDimName=Roll Wait Time
+Dimension=Roll Wait Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim22]
+InternalDimName=Cuaload Time
+Dimension=Cuaload Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim23]
+InternalDimName=Dynpload Time
+Dimension=Dynpload Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim24]
+InternalDimName=Repload Time
+Dimension=Repload Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim25]
+InternalDimName=Generate Time
+Dimension=Generate Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim26]
+InternalDimName=Commit Time
+Dimension=Commit Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim27]
+InternalDimName=DB Time to Record
+Dimension=DB Time to Record
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim28]
+InternalDimName=Database Records
+Dimension=Database Records
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim29]
+InternalDimName=Gui Time
+Dimension=Gui Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim30]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Sap_sr_meter_Dim31]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Sap_sr_meter_Dim32]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Sap_sr_meter_Dim33]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_10]
+FactTableName=Sap_wpm_meter
+DimensionCount=8
+
+[Sap_wpm_meter_Dim0]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Sap_wpm_meter_Dim1]
+InternalDimName=StoppedOther
+Dimension=StoppedOther
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim2]
+InternalDimName=StoppedPRIV
+Dimension=StoppedPRIV
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim3]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[Sap_wpm_meter_Dim4]
+InternalDimName=Ended
+Dimension=Ended
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim5]
+InternalDimName=StoppedCPIC
+Dimension=StoppedCPIC
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim6]
+InternalDimName=Running
+Dimension=Running
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim7]
+InternalDimName=Waiting
+Dimension=Waiting
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Table_11]
+FactTableName=SARM_meter
+DimensionCount=12
+
+[SARM_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[SARM_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[SARM_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[SARM_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[SARM_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[SARM_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[SARM_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=SARM_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[SARM_meter_Dim7]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[SARM_meter_Dim8]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[SARM_meter_Dim9]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[SARM_meter_Dim10]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[SARM_meter_Dim11]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_12]
+FactTableName=SARM_Net_meter
+DimensionCount=11
+
+[SARM_Net_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[SARM_Net_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[SARM_Net_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[SARM_Net_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[SARM_Net_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[SARM_Net_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[SARM_Net_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=SARM_Net_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[SARM_Net_meter_Dim7]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[SARM_Net_meter_Dim8]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[SARM_Net_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[SARM_Net_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_13]
+FactTableName=SQLBD_meter
+DimensionCount=12
+
+[SQLBD_meter_Dim0]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[SQLBD_meter_Dim1]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[SQLBD_meter_Dim2]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[SQLBD_meter_Dim3]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[SQLBD_meter_Dim4]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[SQLBD_meter_Dim5]
+InternalDimName=Other Time
+Dimension=Other Time
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[SQLBD_meter_Dim7]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[SQLBD_meter_Dim8]
+InternalDimName=Prepare
+Dimension=Prepare
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim9]
+InternalDimName=Execute
+Dimension=Execute
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim10]
+InternalDimName=Initial Fetch
+Dimension=Initial Fetch
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim11]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[Table_14]
+FactTableName=TruClientBreakDown_meter
+DimensionCount=11
+
+[TruClientBreakDown_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[TruClientBreakDown_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim6]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim7]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim8]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=TruClientBreakDown_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[TruClientBreakDown_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_15]
+FactTableName=TruClientJsBreakdown_meter
+DimensionCount=11
+
+[TruClientJsBreakdown_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[TruClientJsBreakdown_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim6]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim7]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim8]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=TruClientJsBreakdown_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[TruClientJsBreakdown_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_16]
+FactTableName=URL_meter
+DimensionCount=10
+
+[URL_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[URL_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[URL_meter_Dim2]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=145
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+Dim_22=22
+Dim_23=23
+Dim_24=24
+Dim_25=25
+Dim_26=26
+Dim_27=27
+Dim_28=28
+Dim_29=29
+Dim_30=30
+Dim_31=31
+Dim_32=32
+Dim_33=33
+Dim_34=34
+Dim_35=35
+Dim_36=36
+Dim_37=37
+Dim_38=38
+Dim_39=39
+Dim_40=40
+Dim_41=41
+Dim_42=42
+Dim_43=43
+Dim_44=44
+Dim_45=45
+Dim_46=46
+Dim_47=47
+Dim_48=48
+Dim_49=49
+Dim_50=50
+Dim_51=51
+Dim_52=52
+Dim_53=53
+Dim_54=54
+Dim_55=55
+Dim_56=56
+Dim_57=57
+Dim_58=58
+Dim_59=59
+Dim_60=60
+Dim_61=61
+Dim_62=62
+Dim_63=63
+Dim_64=64
+Dim_65=65
+Dim_66=66
+Dim_67=67
+Dim_68=68
+Dim_69=69
+Dim_70=70
+Dim_71=71
+Dim_72=72
+Dim_73=73
+Dim_74=74
+Dim_75=75
+Dim_76=76
+Dim_77=77
+Dim_78=78
+Dim_79=79
+Dim_80=80
+Dim_81=81
+Dim_82=82
+Dim_83=83
+Dim_84=84
+Dim_85=85
+Dim_86=86
+Dim_87=87
+Dim_88=88
+Dim_89=89
+Dim_90=90
+Dim_91=91
+Dim_92=92
+Dim_93=93
+Dim_94=94
+Dim_95=95
+Dim_96=96
+Dim_97=97
+Dim_98=98
+Dim_99=99
+Dim_100=100
+Dim_101=101
+Dim_102=102
+Dim_103=103
+Dim_104=104
+Dim_105=105
+Dim_106=106
+Dim_107=107
+Dim_108=108
+Dim_109=109
+Dim_110=110
+Dim_111=111
+Dim_112=112
+Dim_113=113
+Dim_114=114
+Dim_115=115
+Dim_116=116
+Dim_117=117
+Dim_118=118
+Dim_119=119
+Dim_120=120
+Dim_121=121
+Dim_122=122
+Dim_123=123
+Dim_124=124
+Dim_125=125
+Dim_126=126
+Dim_127=127
+Dim_128=128
+Dim_129=129
+Dim_130=130
+Dim_131=131
+Dim_132=132
+Dim_133=133
+Dim_134=134
+Dim_135=135
+Dim_136=136
+Dim_137=137
+Dim_138=138
+Dim_139=139
+Dim_140=140
+Dim_141=141
+Dim_142=142
+Dim_143=143
+Dim_144=144
+AsParent=1
+BasedOnTableName=
+
+[URL_meter_Dim3]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[URL_meter_Dim4]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[URL_meter_Dim5]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[URL_meter_Dim6]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[URL_meter_Dim7]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=URL_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[URL_meter_Dim8]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[URL_meter_Dim9]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_17]
+FactTableName=VuserEvent_meter
+DimensionCount=10
+
+[VuserEvent_meter_Dim0]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[VuserEvent_meter_Dim1]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[VuserEvent_meter_Dim2]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[VuserEvent_meter_Dim3]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[VuserEvent_meter_Dim4]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[VuserEvent_meter_Dim5]
+InternalDimName=Vuser End Status Name
+Dimension=Vuser End Status Name
+EqualFlag=1
+DimensionTableName=VuserEndStatus
+NumValues=4
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=4
+Dim_0=Error
+Dim_1=Failed
+Dim_2=Passed
+Dim_3=Stopped
+LikeMode=0
+
+[VuserEvent_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=VuserEvent_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[VuserEvent_meter_Dim7]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[VuserEvent_meter_Dim8]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[VuserEvent_meter_Dim9]
+InternalDimName=Vuser Status Name
+Dimension=Vuser Status Name
+EqualFlag=1
+DimensionTableName=VuserStatus
+NumValues=5
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=5
+Dim_0=Load
+Dim_1=Pause
+Dim_2=Quit
+Dim_3=Ready
+Dim_4=Run
+LikeMode=0
+
+[Table_18]
+FactTableName=WebEvent_meter
+DimensionCount=11
+
+[WebEvent_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=24
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=24
+Dim_0=% загруженности процессора (Сведения о процессоре _Total)
+Dim_1=1_begin
+Dim_2=2_login
+Dim_3=3_adress
+Dim_4=3_choose_clothes
+Dim_5=3_wishlist
+Dim_6=4_add_wishlist
+Dim_7=4_checkout
+Dim_8=4_new_adress
+Dim_9=5_logout
+Dim_10=Action_Transaction
+Dim_11=Connection closed by server
+Dim_12=Connection Shutdowns
+Dim_13=Connections
+Dim_14=Error -26366
+Dim_15=Error -26374
+Dim_16=Error -35049
+Dim_17=Hits
+Dim_18=HTTP_200
+Dim_19=HTTP_302
+Dim_20=New Connections
+Dim_21=Throughput
+Dim_22=vuser_end_Transaction
+Dim_23=vuser_init_Transaction
+LikeMode=0
+
+[WebEvent_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=7
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=7
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=Retry
+Dim_4=Server Resources
+Dim_5=Transaction
+Dim_6=Web
+LikeMode=0
+
+[WebEvent_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=None
+LikeMode=0
+
+[WebEvent_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=192.168.0.116
+LikeMode=0
+
+[WebEvent_meter_Dim4]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[WebEvent_meter_Dim5]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[WebEvent_meter_Dim6]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[WebEvent_meter_Dim7]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Cart_proceed
+Dim_1=New_adress
+Dim_2=Wishlist_2
+LikeMode=0
+
+[WebEvent_meter_Dim8]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1-3#5-7#9
+Dim_1=Dummy2
+LikeMode=0
+
+[WebEvent_meter_Dim9]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=WebEvent_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=3700.000000
+
+[WebEvent_meter_Dim10]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=WebEvent_meter
+NumValues=3
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=9
+Dim_0=1.000000
+Dim_1=68.000000
+Dim_2=HTTP_200
+Dim_3=1.000000
+Dim_4=1.000000
+Dim_5=HTTP_302
+Dim_6=5.000000
+Dim_7=1252252.000000
+Dim_8=Throughput
+

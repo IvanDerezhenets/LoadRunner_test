@@ -1,0 +1,49 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2021.0.0.0
+Path=C:\Users\Vanya\Documents\VuGen\Scripts\IPR\Scenario3.lrs
+Subject=Scenario1
+Result_file=C:\Users\Vanya\Documents\VuGen\Scripts\IPR\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-10800
+Start_time=1646085503
+Daylight_Bias=0
+Stop_time=1646089202
+
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+
+[Data Collection]
+FullData=1
+SummaryEnded=1
+
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Group schedule for: wishlist_2
+Mode=Group Scheduling
+Scenario Duration=Unknown duration
+Load Behavior=Defined per scenario group
+
+[Groups_schedule]
+wishlist_2=SG0;ST4_1E900;R900;SP4;
+new_adress=SG0;ST4_1E900;R900;SP4;
+cart_proceed=SG0;ST4_1E900;R900;SP4;
+
+[Scripts]
+Cart_proceed=C:\Users\Vanya\Documents\VuGen\Scripts\IPR\Cart_proceed\Cart_proceed.usr
+New_adress=C:\Users\Vanya\Documents\VuGen\Scripts\IPR\New_adress\New_adress.usr
+Wishlist_2=C:\Users\Vanya\Documents\VuGen\Scripts\IPR\Wishlist_2\Wishlist_2.usr
+
+[Scripts_types]
+Cart_proceed=Multi+QTWeb
+New_adress=Multi+QTWeb
+Wishlist_2=Multi+QTWeb
+

@@ -1,0 +1,13 @@
+[t10]
+FileName1=t10.htm
+URL1=http://automationpractice.com/index.php?rand=1645605813285
+Total=2
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=t10_RequestBody.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_8-cart_default.jpg
+URL2=http://automationpractice.com/img/p/8/8-cart_default.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

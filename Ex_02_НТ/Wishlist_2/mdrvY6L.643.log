@@ -1,0 +1,9 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(27): Found resource "http://automationpractice.com/modules/blockbanner/img/sale70.png" in HTML "http://automationpractice.com/index.php?controller=authentication&back=my-account"  	[MsgId: MMSG-26659]
+Action.c(27): Found resource "http://automationpractice.com/img/logo.jpg" in HTML "http://automationpractice.com/index.php?controller=authentication&back=my-account"  	[MsgId: MMSG-26659]
+Action.c(27): Found resource "http://automationpractice.com/img/c/3-0_thumb.jpg" in HTML "http://automationpractice.com/index.php?controller=authentication&back=my-account"  	[MsgId: MMSG-26659]
+Action.c(27): Found resource "http://automationpractice.com/img/c/3-1_thumb.jpg" in HTML "http://automationpractice.com/index.php?controller=authentication&back=my-account"  	[MsgId: MMSG-26659]
+Action.c(27): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "http://automationpractice.com/themes/default-bootstrap/css/global.css". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

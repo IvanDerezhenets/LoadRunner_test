@@ -1,0 +1,33 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(60): Resource "http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/modules/blockbanner/img/sale70.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/img/logo.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/img/c/3-0_thumb.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/img/c/3-1_thumb.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Error -26366: "Text=Sign out" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(60): Registered web_reg_find successful for "Text=Sign out" (count=3)  	[MsgId: MMSG-26364]
+Action.c(60): web_submit_data("index.php_2") was successful, 29353 body bytes, 2727 header bytes, 41 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(76): Notify: Transaction "2_login" ended with a "Pass" status (Duration: 19,3066 Wasted Time: 0,0003).	[MsgId: MMSG-16871]
+Action.c(77): Notify: Transaction "3_choose_clothes" started.	[MsgId: MMSG-16999]
+Action.c(80): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(80): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(84): web_url("Dresses") started  	[MsgId: MMSG-26355]
+Action.c(84): Warning -26665: HTTP Status Code is missing or invalid. Assuming "200 OK"  	[MsgId: MWAR-26665]
+Action.c(84): Error -26366: "Text=Showing 1 - 5 of 5 items" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(60): Resource "http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/modules/blockbanner/img/sale70.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/img/logo.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/img/c/3-0_thumb.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Resource "http://automationpractice.com/img/c/3-1_thumb.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(60): Error -26366: "Text=Sign out" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

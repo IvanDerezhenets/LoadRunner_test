@@ -1,0 +1,15 @@
+[t8]
+FileName1=t8.htm
+URL1=http://automationpractice.com/index.php?controller=order&multi-shipping=
+Total=3
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=t8_RequestBody.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8_bankwire.png
+URL2=http://automationpractice.com/themes/default-bootstrap/img/bankwire.png
+FileName3=t8_cheque.png
+URL3=http://automationpractice.com/themes/default-bootstrap/img/cheque.png
+[ProtocolInfo]
+ProtocolId=QTWeb

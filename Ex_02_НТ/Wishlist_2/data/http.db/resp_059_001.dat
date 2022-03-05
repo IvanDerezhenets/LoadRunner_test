@@ -1,0 +1,22 @@
+2fa
+	<dl class="products">
+					<dt class="first_item">
+				<span class="quantity-formated">
+					<span class="quantity">1</span>x
+				</span>
+				<a class="cart_block_product_name" href="http://automationpractice.com/index.php?id_product=1&amp;controller=product" title="Faded Short Sleeve T-shirts">
+					Faded...
+				</a>
+				<a class="ajax_cart_block_remove_link" href="javascript:;" onclick="javascript:WishlistCart('wishlist_block_list', 'delete', '1', 0, '0');" rel="nofollow" title="remove this product from my wishlist">
+					<i class="icon-remove-sign"></i>
+				</a>
+			</dt>
+						<dd class="first_item">
+				<a href="http://automationpractice.com/index.php?id_product=1&amp;controller=product" title="Product detail">
+					
+				</a>
+			</dd>
+						</dl>
+
+0
+

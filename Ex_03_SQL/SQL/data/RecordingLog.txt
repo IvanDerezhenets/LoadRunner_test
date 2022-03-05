@@ -1,0 +1,609 @@
+[API Trapper      (2b30:323c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1750:2344)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1650:1b34)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1650:3510)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1650:3510)] Load Network Traffic Analyzers:
+[Network Analyzer (1650:3510)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1650:3510)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1650:3510)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1650:3510)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1650:3510)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1650:3510)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1650:3510)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1650:3510)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1650: bfc)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.209.163:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.210.141:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:2164)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1650:365c)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3478)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:18e8)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:194c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: 808)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: 264)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1650:2a80)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:199c)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:365c)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:2a80)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:18e8)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:194c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: 264)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:3478)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:199c)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: 808)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:2164)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Web Request      (1650: bfc)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=98"   
+[Network Analyzer (1650: bfc)]   (Sid:  1) Client -> Server @ : 459 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  2) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  3) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  4) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  5) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Client -> Server @ : 2865 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  7) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  8) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  9) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (1650: bfc)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (1650: bfc)]   (Sid:  6) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  2) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  3) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  2) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  1) Server -> Client : 322 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid:  4) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  5) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  7) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  8) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  9) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2a2c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid:  2) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 1630 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 391 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 23 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2320)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.209.206:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1650:2a2c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:2320)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  5) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[API Trapper      (33f4:28bc)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[Network Analyzer (1650: bfc)]   (Sid:  5) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: 488)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: 488)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: 94c)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: 94c)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /ListAccounts?json=standard&source=ogb&md=1&cc=1&mn=1&mo=1&gpsia=1&fwput=165&listPages=1&authuser=0&origin=https%3A%2F%2Fwww.google.com"   
+[Network Analyzer (1650: bfc)]   (Sid:  6) Client -> Server @ : 3046 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=&prodversion=98.0.4758.102&lang=ru&acceptformat=crx3&x=id%3Domimkinlomnncbmnceacpkmlbfaapojj%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dkmbnlphpmaceeeckfajocgacddockioj%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dgojagedhadegobocpaokaifiacjiolph%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dcopoaaffjmndhhefnhlaehnhjkdjaecm%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Diajlkcpgcnbhfhpdeooockfaincfkjjj%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dpfcinjgicoeahneoeiifecppkflgfbpl%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dklhfgnobmdkblmbdahcnpajbjnfmknpn%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dcbeaggionkbldhelpmljlndgglpjmcid%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Degkkgmpjnjodbfpnbaahikapdgglgjnk%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Ddfiolepojknoifmfmaooacpopandonoc%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dlnlljnmekmbblccedllicahemcdkdgoo%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dphjbcelanfbmkoghofajgepjabdbgncf%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dogamfblgeojacgfhaojdlblchadfpmbh%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dojodjefldcdcglpfbkklajdjaodibgcg%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dbldnejoajcpmegfmelnfikdlnnpclaoi%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dbdhblcnfmfpbgkjcgjenmaiemipkcjpe%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1"   
+[Network Analyzer (1650: bfc)]   (Sid: 13) Client -> Server @ : 2920 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 1530 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 710 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 60 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 809 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 729 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=&prodversion=98.0.4758.102&lang=ru&acceptformat=crx3&x=id%3Dodcgbbobjdkicgfgjkoaofhmdngidood%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1&x=id%3Dbhihihccndmlmfflgplknbfdckldknip%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dhdeehmfjhbhcdeeacddmbfedacepfgbe%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dgbcjjgkapdombcilbfbjapkbpnocbkcf%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dninpjfobbainbbognoflhbiihkhpdake%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dpniinickecbjegedmgagmgikbolfgaij%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1&x=id%3Dipneigdlknokmkdldkfganfahlmfnmko%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dmgndgikekgjfcpckkfioiadnlibdjbkf%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dacfhjcbakbeldmlfghoaaalejnekaknd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dklemmckdcnieolllgjgbniaeehggmano%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dhnbljfboibkgddnppdoiacncicnlolbp%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dhmglmmbnahpmbdbphglbdfdecmmhkadb%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dfmljgkjphgdiiomfkmoalhleilfikfap%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Djangaedeekciafhlanphhnalogmhefmo%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1&x=id%3Doncngggkgohpbdibdnamhbgoimdmnnhe%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1"   
+[Network Analyzer (1650: bfc)]   (Sid: 13) Client -> Server @ : 2784 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 809 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 837 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /service/update2/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromecrx&prodchannel=&prodversion=98.0.4758.102&lang=ru&acceptformat=crx3&x=id%3Dlbbbhbjeecagnlfgggogfclkdjamoapf%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1&x=id%3Dlflddlnnbbljflibkambmjcpcanhnflb%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dkcknlflbaiicknggofihmhfnbnpfilmd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dfgjacmakiifbpglpcogkbenamalgaoei%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Difjdaafecpchdbaongdakaibhcimgbbk%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dhpjdjohkhgeohefcpllhdknhlgdgeajf%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1&x=id%3Dapfbanpdbdagdlkkehhpkekofbdgphbk%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dnojaabckpfdijgbnlhdlhjheiappijbp%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dgooihknicmgbfhbfcobcgfjllcglkoik%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dlblbnlfhhblmfconjalikamamlgoobbe%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dieadcoanfjloocmfafkebdnfefmohngj%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dplmlpbcjkpppncefeoongifnpinjmegf%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1%2526dr%253D2&x=id%3Ddmglolhoplikcoamfgjgammjbgchgjdd%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D1&x=id%3Dfneleoohaagcejefkfmanhhdoboipapk%26v%3D0.0.0.0%26installedby%3Dinternal%26uc&x=id%3Dagfjdflmdlnffhlfmjdpbcoccaeamikk%26v%3D0.0.0.0%26installedby%3Dinternal%26uc%26ping%3Dr%253D1%2526e%253D0%2526dr%253D1%2526dr%253D2"   
+[Network Analyzer (1650: bfc)]   (Sid: 13) Client -> Server @ : 2823 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 809 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 815 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABBnNzdGF0cwVhZG9iZQNjb20AAAEAAQAAKRAAAAAAAABTAAwATwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  4) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  4) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 15.188.95.229:443   (Service=)  (Sid= 14)  PROXIED!
+[API Trapper      (3650:1c34)] Recording in 32-bit mode: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[Network Analyzer (1650:2bd0)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:2bd0)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABBW10YWxrBmdvb2dsZQNjb20AAAEAAQAAKRAAAAAAAABTAAwATwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  4) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s14454754845057?AQB=1&ndh=1&pf=1&t=1%2F2%2F2022%2020%3A56%3A22%202%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.9&v2=sideload&v3=prod&v4=not_set&s=1366x768&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"   
+[Network Analyzer (1650: bfc)]   (Sid: 14) Client -> Server @ : 2128 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  4) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 14) Server -> Client : 808 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 74.125.205.188:5228   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (1650: bfc)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s13509260074671?AQB=1&ndh=1&pf=1&t=1%2F2%2F2022%2020%3A56%3A22%202%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.9&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer (1650: bfc)]   (Sid: 14) Client -> Server @ : 2088 bytes (SSL)(Service=HTTP)
+[API Trapper      ( 538:3300)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1650: bfc)]   (Sid: 14) Server -> Client : 808 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:1a30)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (1650: bfc)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s18294916817810?AQB=1&ndh=1&pf=1&t=1%2F2%2F2022%2020%3A56%3A22%202%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.9&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer (1650: bfc)]   (Sid: 14) Client -> Server @ : 2077 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:1a30)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 14) Server -> Client : 808 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 15) Client -> Server @ : 155 bytes (SSL)
+[Network Analyzer (1650: bfc)]   (Sid: 15) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (1650: bfc)]   (Sid: 15) Server -> Client : 66 bytes (SSL)
+[Network Analyzer (1650: bfc)]   (Sid: 15) Server -> Client : 12 bytes (SSL)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA2FwaQp3aW5kc2NyaWJlA2NvbQAAAQABAAApEAAAAAAAAFEADABNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  4) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid:  4) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwpnb29nbGVhcGlzA2NvbQAAAQABAAApEAAAAAAAAFEADABNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid:  4) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABBnVwZGF0ZQpnb29nbGVhcGlzA2NvbQAAAQABAAApEAAAAAAAAE4ADABKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 10) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:2f7c)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid:  4) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 10) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2ba0)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.209.170:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.210.163:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (1650:2f7c)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:2ba0)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:34cc)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:34cc)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /BestLocation?client_auth_hash=7cb8a79b94c128ba9248cdbc8130e502&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1646157384"   
+[Network Analyzer (1650: bfc)]   (Sid: 16) Client -> Server @ : 701 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /Notifications?client_auth_hash=7cb8a79b94c128ba9248cdbc8130e502&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1646157384"   
+[Network Analyzer (1650: bfc)]   (Sid: 17) Client -> Server @ : 702 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "POST /oauth2/v4/token"   
+[Network Analyzer (1650: bfc)]   (Sid: 18) Client -> Server @ : 698 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 18) Server -> Client : 1193 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2e4c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 18) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2e4c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 19) Client -> Server @ : 1303 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 16) Server -> Client : 852 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "POST /service/update2/json?cup2key=11:qlVe34AFl_aa6gaUBlpAGMuVxUPpNNbgl90onvCOiA8&cup2hreq=551f1861bf229ba55b6fea7dfb501ed7b825a61da695834d76cebf098acebb93"   
+[Network Analyzer (1650: bfc)]   (Sid: 19) Client -> Server @ : 6641 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 16) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 679 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /Session?client_auth_hash=d805e780c8e3d2cd006fa5d1fdd0157b&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1646157393"   
+[Network Analyzer (1650: bfc)]   (Sid: 17) Client -> Server @ : 696 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABCWNoZWNraXB2NAp3aW5kc2NyaWJlA2NvbQAAAQABAAApEAAAAAAAAEsADABHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 10) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 19) Server -> Client : 1261 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 19) Server -> Client : 878 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 19) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 10) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 1025 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABBmFzc2V0cwp3aW5kc2NyaWJlA2NvbQAAAQABAAApEAAAAAAAAE4ADABKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 10) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:2fb0)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 10) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (1650:2fb0)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[User action                 ] StartTransactionEvent 1_begin [Web Request      (1650: bfc)] "GET /"   
+[Network Analyzer (1650: bfc)]   (Sid: 20) Client -> Server @ : 479 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 20) Server -> Client : 331 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /"   
+[Network Analyzer (1650: bfc)]   (Sid: 20) Client -> Server @ : 479 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:2ea0)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:2ea0)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 20) Server -> Client : 331 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /serverlist/chrome/0/e5830f9755e723ff025d9a6722edee708fa1195c?platform=chrome"   
+[Network Analyzer (1650: bfc)]   (Sid: 21) Client -> Server @ : 552 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 296 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /BestLocation?client_auth_hash=09c3152be70e85b89d683aba71532b7d&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1646157396"   
+[Network Analyzer (1650: bfc)]   (Sid: 17) Client -> Server @ : 701 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 851 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (1650:2fe4)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:2fe4)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwNzcWwCcnUAAAEAAQAAKRAAAAAAAABZAAwAVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1054 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (1650:3764)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3764)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /blogs/iyun/2267"   
+[Network Analyzer (1650: bfc)]   (Sid: 23) Client -> Server @ : 660 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 8297 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 20 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABBGFqYXgKZ29vZ2xlYXBpcwNjb20AAAEAAQAAKRAAAAAAAABQAAwATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/screen.css?v=1"   
+[Network Analyzer (1650: bfc)]   (Sid: 23) Client -> Server @ : 596 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 689 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.210.138:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 26)  PROXIED!
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABAnM3B2FkZHRoaXMDY29tAAABAAEAACkQAAAAAAAAVQAMAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /js/jquery.tagcloud.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 23) Client -> Server @ : 585 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: 854)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (1650: 854)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 1510 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/layout.css?v=1"   
+[Network Analyzer (1650: bfc)]   (Sid: 24) Client -> Server @ : 599 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:2edc)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 24) Server -> Client : 2847 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 23.199.248.121:443   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (1650: bfc)] "GET /css/sides.css"   
+[Network Analyzer (1650: bfc)]   (Sid: 23) Client -> Server @ : 594 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/vote.css"   
+[Network Analyzer (1650: bfc)]   (Sid: 24) Client -> Server @ : 593 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:2edc)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:3588)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3588)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 1226 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 24) Server -> Client : 1057 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /ajax/libs/jquery/1.4.4/jquery.min.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 25) Client -> Server @ : 541 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/homepage.css"   
+[Network Analyzer (1650: bfc)]   (Sid: 26) Client -> Server @ : 597 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/articles.css"   
+[Network Analyzer (1650: bfc)]   (Sid: 23) Client -> Server @ : 597 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/job.css"   
+[Network Analyzer (1650: bfc)]   (Sid: 24) Client -> Server @ : 592 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 26) Server -> Client : 910 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /js/utils.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 26) Client -> Server @ : 575 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 2538 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 24) Server -> Client : 1311 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2074)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650: bfc)]   (Sid: 26) Server -> Client : 1902 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2074)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 25) Server -> Client : 693 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dxBnb29nbGUtYW5hbHl0aWNzA2NvbQAAAQABAAApEAAAAAAAAEsADABHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:2d44)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (1650:2d44)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:2bbc)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.210.142:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1650:2bbc)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABA2NkbgNzcWwCcnUAAAEAAQAAKRAAAAAAAABZAAwAVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/images/icons/li-dot.gif"   
+[Network Analyzer (1650: bfc)]   (Sid: 26) Client -> Server @ : 649 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/images/v-delim-line.gif"   
+[Network Analyzer (1650: bfc)]   (Sid: 24) Client -> Server @ : 652 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 26) Server -> Client : 565 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 24) Server -> Client : 547 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1054 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:1c6c)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: c44)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:168c)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (1650: c44)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:1c6c)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:168c)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:2624)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (1650:2624)] SSLAccept(ssl_id = 1997378770816 = 000001D10D0D5780) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:2624)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Web Request      (1650: bfc)] "GET /js/250/addthis_widget.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 30) Client -> Server @ : 524 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /analytics.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 32) Client -> Server @ : 522 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (1650:3284)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (1650:3284)] SSLAccept(ssl_id = 1997378758496 = 000001D10D0D2760) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:3284)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 8619 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2e28)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 1727 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Net An. Error    (1650:2e28)] SSLAccept(ssl_id = 1997378795456 = 000001D10D0DB7C0) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:2e28)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 1317 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 881 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:1d4c)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 89.188.113.172:443   (Service=)  (Sid= 41)  PROXIED!
+[Net An. Error    (1650:1d4c)] SSLAccept(ssl_id = 1997378826256 = 000001D10D0E3010) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:1d4c)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1650:1408)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABAXoHbW9hdGFkcwNjb20AAAEAAQAAKRAAAAAAAABWAAwAUgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Net An. Error    (1650:1408)] SSLAccept(ssl_id = 1997378838576 = 000001D10D0E6030) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:1408)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (1650: bfc)] "POST /j/collect?v=1&_v=j96&a=1014683552&t=pageview&_s=1&dl=https%3A%2F%2Fwww.sql.ru%2Fblogs%2Fiyun%2F2267&ul=ru&de=windows-1251&dt=%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20(%D0%B0%20%D0%9A%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D0%B4%D0%B0%20%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%94%D0%BE%D0%B9%D1%87%D0%B0%20%3A-)%20%2F%20%D0%9F%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D1%8B%20%D1%81%20%D1%80%D0%B0%D0%B7%D0%BE%D0%B3%D0%BD%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E%20%2F%20Sql.ru&sd=24-bit&sr=1366x768&vp=1349x625&je=0&_u=IEBAAAABAAAAAC~&jid=165479446&gjid=1593193430&cid=1318644146.1646157402&tid=UA-265508-1&_gid=1025473743.1646157402&_r=1&_slc=1&z=792583771"   
+[Network Analyzer (1650: bfc)]   (Sid: 32) Client -> Server @ : 1351 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/images/icons/comment.gif"   
+[Network Analyzer (1650: bfc)]   (Sid: 24) Client -> Server @ : 728 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/images/icons/print.gif"   
+[Network Analyzer (1650: bfc)]   (Sid: 26) Client -> Server @ : 726 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /css/images/icons/comment-small.gif"   
+[Network Analyzer (1650: bfc)]   (Sid: 23) Client -> Server @ : 734 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:293c)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650: bfc)]   (Sid: 24) Server -> Client : 658 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 23) Server -> Client : 589 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 26) Server -> Client : 639 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 32) Server -> Client : 616 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 2.17.150.213:443   (Service=)  (Sid= 42)  PROXIED!
+[Net An. Error    (1650:293c)] SSLAccept(ssl_id = 1997378801616 = 000001D10D0DCFD0) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:293c)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABAm1jBnlhbmRleAJydQAAAQABAAApEAAAAAAAAFcADABTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:1840)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABAnYxC2FkZHRoaXNlZGdlA2NvbQAAAQABAAApEAAAAAAAAFEADABNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 31) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Net An. Error    (1650:1840)] SSLAccept(ssl_id = 1997378807776 = 000001D10D0DE7E0) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:1840)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3470)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650: bfc)]   (Sid: 31) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:2a84)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1650:18a8)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 77.88.21.119:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:1594)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 23.199.248.121:443   (Service=)  (Sid= 45)  PROXIED!
+[Net An. Error    (1650:3470)] SSLAccept(ssl_id = 1997378820096 = 000001D10D0E1800) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:2a84)] SSLAccept(ssl_id = 1997379803120 = 000001D10D1D17F0) Failed, ctx = 000001D10D0C2AE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1650:3470)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1650:2a84)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1650:1594)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650:18a8)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABAW0HYWRkdGhpcwNjb20AAAEAAQAAKRAAAAAAAABWAAwAUgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 22) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABBXN0YXRzAWcLZG91YmxlY2xpY2sDbmV0AAABAAEAACkQAAAAAAAATAAMAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 31) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /l10n/client.ru.min.json"   
+[Network Analyzer (1650: bfc)]   (Sid: 30) Client -> Server @ : 547 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /addthismoatframe568911941483/moatframe.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 42) Client -> Server @ : 540 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /dns-query?dns=AAABAAABAAAAAAABEGNvbnRlbnQtYXV0b2ZpbGwKZ29vZ2xlYXBpcwNjb20AAAEAAQAAKRAAAAAAAABEAAwAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1650: bfc)]   (Sid: 43) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:1cdc)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 31) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 22) Server -> Client : 1052 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 30) Server -> Client : 2734 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 43) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 23.199.248.121:443   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (1650: a6c)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 42) Server -> Client : 1420 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 142.251.1.155:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:1254)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 23.199.248.121:443   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Net An. Error    (1650:346c)] SSL_connect(ssl_id = 1997379858560 = 000001D10D1DF080) Failed, ctx = 000001D10D09DFB0, err = "SSLv3/TLS write client hello", err code = 5, err msg = "error:00000005:lib(0):func(0):DH lib
+"
+[Net An. Error    (1650:346c)]   (Sid: 47) SSL handshake with remote server Failed!
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 216.58.209.202:443   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 23.199.248.121:443   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (1650:1254)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /static/sh.f48a1a04fe8dbf021b4cda1d.html"   
+[Network Analyzer (1650: bfc)]   (Sid: 46) Client -> Server @ : 702 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: a6c)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /live/boost/xa-4cb75b821386eec8/_ate.track.config_resp"   
+[Network Analyzer (1650: bfc)]   (Sid: 45) Client -> Server @ : 557 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:1cdc)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /metrika/tag.js"   
+[Network Analyzer (1650: bfc)]   (Sid: 44) Client -> Server @ : 512 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 355 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 5853 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 46) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 8168 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 46) Server -> Client : 8653 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3544)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 8168 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 45) Server -> Client : 346 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 46) Server -> Client : 1845 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 3924 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 4244 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 8168 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 8168 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 8168 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 8168 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 6649 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:3544)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /live/red_lojson/300lo.json?si=621e5e5937407a78&bkl=0&bl=1&pdt=1888&sid=621e5e5937407a78&pub=xa-4cb75b821386eec8&rev=v8.28.8-wp&ln=ru&pc=men&cb=0&ab=-&dp=www.sql.ru&fp=blogs%2Fiyun%2F2267&fr=&of=0&pd=0&irt=0&vcl=0&md=0&ct=1&tct=0&abt=0&cdn=0&pi=1&rb=0&gen=100&chr=windows-1251&colc=1646157401732&jsl=1&uvs=621e5e59fae36422000&skipb=1&callback=addthis.cbs.jsonp__76580960170740680"   
+[Network Analyzer (1650: bfc)]   (Sid: 48) Client -> Server @ : 877 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:1b28)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:1b28)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1650: bfc)] "GET /v1/pages/ChRDaHJvbWUvOTguMC40NzU4LjEwMhIXCfSCHz9-Ii7yEgUNKEstiRIFDc5BTHoSEAnB2O8S2uS9YxIFDbtXVmo=?alt=proto"   
+[Network Analyzer (1650: bfc)]   (Sid: 49) Client -> Server @ : 547 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 49) Server -> Client : 628 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /watch/9237463?wmode=7&page-url=https%3A%2F%2Fwww.sql.ru%2Fblogs%2Fiyun%2F2267&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A7oivoclvhnrnrlmt4hr%3Afp%3A4319%3Afu%3A0%3Aen%3Awindows-1251%3Ala%3Aru%3Av%3A760%3Acn%3A1%3Adp%3A0%3Als%3A1554443786589%3Ahid%3A742800416%3Az%3A180%3Ai%3A20220301205644%3Aet%3A1646157405%3Ac%3A1%3Arn%3A404980368%3Arqn%3A1%3Au%3A1646157405908202116%3Aw%3A1349x625%3As%3A1366x768x24%3Ask%3A1%3Acpf%3A1%3Antf%3A1%3Ans%3A1646157396407%3Ads%3A1562%2C176%2C93%2C1%2C5%2C0%2C%2C3427%2C77%2C%2C%2C%2C5270%3Awv%3A2%3Aco%3A0%3Arqnl%3A1%3Ast%3A1646157405%3At%3A%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20(%D0%B0%20%D0%9A%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D0%B4%D0%B0%20%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%94%D0%BE%D0%B9%D1%87%D0%B0%20%3A-)%20%2F%20%D0%9F%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D1%8B%20%D1%81%20%D1%80%D0%B0%D0%B7%D0%BE%D0%B3%D0%BD%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E%20%2F%20Sql.ru&t=gdpr(14)aw(1)ti(2)"   
+[Network Analyzer (1650: bfc)]   (Sid: 44) Client -> Server @ : 1589 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:  e8)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 77.88.21.119:443   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (1650:  e8)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 2243 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 48) Server -> Client : 368 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650:12ac)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650: bfc)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (1650: bfc)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (1650:3510)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1650:3510)] Request Connection: Remote Server @ 77.88.21.119:443   (Service=)  (Sid= 52)  PROXIED!
+[Web Request      (1650: bfc)] "GET /metrika/advert.gif"   
+[Network Analyzer (1650: bfc)]   (Sid: 44) Client -> Server @ : 576 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:12ac)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 336 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 44) Server -> Client : 43 bytes (SSL) (Service=HTTP)
+[Web Request      (1650: bfc)] "GET /watch/9237463/1?wmode=7&page-url=https%3A%2F%2Fwww.sql.ru%2Fblogs%2Fiyun%2F2267&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A7oivoclvhnrnrlmt4hr%3Afp%3A4319%3Afu%3A0%3Aen%3Awindows-1251%3Ala%3Aru%3Av%3A760%3Acn%3A1%3Adp%3A0%3Als%3A1554443786589%3Ahid%3A742800416%3Az%3A180%3Ai%3A20220301205644%3Aet%3A1646157405%3Ac%3A1%3Arn%3A404980368%3Arqn%3A1%3Au%3A1646157405908202116%3Aw%3A1349x625%3As%3A1366x768x24%3Ask%3A1%3Acpf%3A1%3Antf%3A1%3Ans%3A1646157396407%3Ads%3A1562%2C176%2C93%2C1%2C5%2C0%2C%2C3427%2C77%2C%2C%2C%2C5270%3Awv%3A2%3Aco%3A0%3Arqnl%3A1%3Ast%3A1646157405%3At%3A%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%28%D0%B0%20%D0%9A%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D0%B4%D0%B0%20%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%20%D0%94%D0%BE%D0%B9%D1%87%D0%B0%20%3A-%29%20%2F%20%D0%9F%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D1%8B%20%D1%81%20%D1%80%D0%B0%D0%B7%D0%BE%D0%B3%D0%BD%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E%20%2F%20Sql.ru&t=gdpr%2814%29aw%281%29ti%282%29"   
+[Network Analyzer (1650: bfc)]   (Sid: 51) Client -> Server @ : 1607 bytes (SSL)(Service=HTTP)
+[Web Request      (1650: bfc)] "GET /favicon.ico"   
+[Network Analyzer (1650: bfc)]   (Sid: 26) Client -> Server @ : 813 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1650:17d4)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1650:17d4)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1650: bfc)]   (Sid: 51) Server -> Client : 500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 26) Server -> Client : 1840 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1650: bfc)]   (Sid: 51) Server -> Client : 318 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent 1_begin 

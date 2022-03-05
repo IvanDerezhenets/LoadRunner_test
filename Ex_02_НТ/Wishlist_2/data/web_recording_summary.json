@@ -1,0 +1,1130 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 19,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Р РЋРІР‚С›Р В Р’ВµР В Р вЂ -23-2022",
+    "RecordingDuration": 89406,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1645604916,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 986206,
+    "TotalBytesSent": 59021,
+    "TotalRequests": 80,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "windscribe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.67.17.175",
+          "IncludeInScript": false,
+          "Name": "checkipv4.windscribe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 63,
+              "EventId": 2689,
+              "HttpStatus": 200,
+              "Size": 14,
+              "URL": "https://checkipv4.windscribe.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 62,
+              "EventId": 2687,
+              "HttpStatus": 200,
+              "Size": 14,
+              "URL": "https://checkipv4.windscribe.com/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.20.27.217",
+          "IncludeInScript": false,
+          "Name": "api.windscribe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 187,
+              "EventId": 2679,
+              "HttpStatus": 200,
+              "Size": 345,
+              "URL": "https://api.windscribe.com/Session?client_auth_hash=28e8316ea8468249d333131ad2c99cab&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1645610775"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 203,
+              "EventId": 2670,
+              "HttpStatus": 200,
+              "Size": 202,
+              "URL": "https://api.windscribe.com/BestLocation?client_auth_hash=c7f515beb08565e44b17a436bc43ee0d&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1645610764"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 2664,
+              "HttpStatus": 200,
+              "Size": 1356,
+              "URL": "https://api.windscribe.com/Notifications?client_auth_hash=c7f515beb08565e44b17a436bc43ee0d&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1645610764"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.210.131",
+          "IncludeInScript": false,
+          "Name": "fonts.gstatic.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 47,
+              "EventId": 2956,
+              "HttpStatus": 200,
+              "Size": 44656,
+              "URL": "http://fonts.gstatic.com/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.209.195",
+          "IncludeInScript": false,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 109,
+              "EventId": 3087,
+              "HttpStatus": 200,
+              "Size": 981,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=11:39ZbUlUGdtNpH7Lu6_Fml4GAHBdaisJp3cYizSgKFkE&cup2hreq=e7aac413efbaae5e37297d05ed5f76d27c1bbff6d5abefbaab91487f19300da1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.209.170",
+          "IncludeInScript": false,
+          "Name": "fonts.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 46,
+              "EventId": 2710,
+              "HttpStatus": 200,
+              "Size": 636,
+              "URL": "http://fonts.googleapis.com/css?family=Open+Sans:300,600&subset=latin,latin-ext"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.210.138",
+          "IncludeInScript": false,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 62,
+              "EventId": 2982,
+              "HttpStatus": 200,
+              "Size": 98,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvOTguMC40NzU4LjEwMhIQCeqL1ZB2A1shEgUN8aNb4xIQCdn-OObv-dVFEgUNFrfrORIXCapgApO5XvX3EgUNeG8SGRIFDVd69_0SEAnUFIBXvQDnzxIFDXhvEhk=?alt=proto"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.210.163",
+          "IncludeInScript": false,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 2547,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=98"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "dns.google",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "8.8.4.4",
+          "IncludeInScript": false,
+          "Name": "dns.google",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 218,
+              "EventId": 2696,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABEmF1dG9tYXRpb25wcmFjdGljZQNjb20AAAEAAQAAKRAAAAAAAABNAAwASQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 62,
+              "EventId": 2660,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 63,
+              "EventId": 2656,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 78,
+              "EventId": 2654,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 62,
+              "EventId": 2652,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 62,
+              "EventId": 2650,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/dns-message",
+              "DownloadTime": 78,
+              "EventId": 2648,
+              "HttpStatus": 200,
+              "Size": 468,
+              "URL": "https://dns.google/dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "automationpractice.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.231.240.87",
+          "IncludeInScript": true,
+          "Name": "automationpractice.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 281,
+              "EventId": 3140,
+              "HttpStatus": 200,
+              "Size": 343,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/img/order-step-current.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 266,
+              "EventId": 3138,
+              "HttpStatus": 200,
+              "Size": 584,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/img/order-step-a.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 282,
+              "EventId": 3136,
+              "HttpStatus": 200,
+              "Size": 587,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/img/order-step-done-last.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 750,
+              "EventId": 3120,
+              "HttpStatus": 200,
+              "Size": 35614,
+              "URL": "http://automationpractice.com/index.php?controller=authentication&back=http%3A%2F%2Fautomationpractice.com%2Findex.php%3Ffc%3Dmodule%26module%3Dblockwishlist%26controller%3Dmywishlist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1656,
+              "EventId": 3118,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 454,
+              "EventId": 3112,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://automationpractice.com/index.php?mylogout="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1672,
+              "EventId": 3097,
+              "HttpStatus": 200,
+              "Size": 46382,
+              "URL": "http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1125,
+              "EventId": 3095,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 3070,
+              "HttpStatus": 200,
+              "Size": 3815,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/img/jquery/uniform/sprite.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 3068,
+              "HttpStatus": 200,
+              "Size": 10392,
+              "URL": "http://automationpractice.com/modules/blockstore/store.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 3066,
+              "HttpStatus": 200,
+              "Size": 1906,
+              "URL": "http://automationpractice.com/img/p/8/8-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 3064,
+              "HttpStatus": 200,
+              "Size": 2687,
+              "URL": "http://automationpractice.com/img/p/1/0/10-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 3062,
+              "HttpStatus": 200,
+              "Size": 2017,
+              "URL": "http://automationpractice.com/img/p/1/6/16-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 157,
+              "EventId": 3060,
+              "HttpStatus": 200,
+              "Size": 2157,
+              "URL": "http://automationpractice.com/img/p/1/2/12-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 3052,
+              "HttpStatus": 200,
+              "Size": 2241,
+              "URL": "http://automationpractice.com/img/p/7/7-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 3050,
+              "HttpStatus": 200,
+              "Size": 1694,
+              "URL": "http://automationpractice.com/img/p/1/1-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 3047,
+              "HttpStatus": 200,
+              "Size": 2007,
+              "URL": "http://automationpractice.com/img/p/2/0/20-small_default.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2062,
+              "EventId": 3030,
+              "HttpStatus": 200,
+              "Size": 44999,
+              "URL": "http://automationpractice.com/index.php?fc=module&module=blockwishlist&controller=mywishlist"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 157,
+              "EventId": 3023,
+              "HttpStatus": 200,
+              "Size": 2140,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/my-account.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2671,
+              "EventId": 3013,
+              "HttpStatus": 200,
+              "Size": 27216,
+              "URL": "http://automationpractice.com/index.php?controller=my-account"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2907,
+              "EventId": 3008,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://automationpractice.com/index.php?controller=authentication"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 156,
+              "EventId": 2979,
+              "HttpStatus": 200,
+              "Size": 3003,
+              "URL": "http://automationpractice.com/img/favicon.ico?1461205423"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 157,
+              "EventId": 2954,
+              "HttpStatus": 200,
+              "Size": 84,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/img/footer-bg.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff",
+              "DownloadTime": 156,
+              "EventId": 2949,
+              "HttpStatus": 200,
+              "Size": 43572,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/font/fontawesome-webfont.woff?v=3.2.1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 2944,
+              "HttpStatus": 200,
+              "Size": 10172,
+              "URL": "http://automationpractice.com/img/c/3-1_thumb.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 2941,
+              "HttpStatus": 200,
+              "Size": 11566,
+              "URL": "http://automationpractice.com/img/logo.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 157,
+              "EventId": 2936,
+              "HttpStatus": 200,
+              "Size": 13294,
+              "URL": "http://automationpractice.com/img/c/3-0_thumb.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 2929,
+              "HttpStatus": 200,
+              "Size": 13212,
+              "URL": "http://automationpractice.com/modules/blockbanner/img/sale70.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 157,
+              "EventId": 2926,
+              "HttpStatus": 200,
+              "Size": 3834,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 2923,
+              "HttpStatus": 200,
+              "Size": 4938,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2921,
+              "HttpStatus": 200,
+              "Size": 6983,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 157,
+              "EventId": 2917,
+              "HttpStatus": 200,
+              "Size": 9970,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 141,
+              "EventId": 2915,
+              "HttpStatus": 200,
+              "Size": 3730,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2911,
+              "HttpStatus": 200,
+              "Size": 19950,
+              "URL": "http://automationpractice.com/js/jquery/plugins/autocomplete/jquery.autocomplete.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2908,
+              "HttpStatus": 200,
+              "Size": 1730,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 2900,
+              "HttpStatus": 200,
+              "Size": 2961,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/tools/treeManagement.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2892,
+              "HttpStatus": 200,
+              "Size": 19123,
+              "URL": "http://automationpractice.com/js/jquery/plugins/bxslider/jquery.bxslider.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2890,
+              "HttpStatus": 200,
+              "Size": 2013,
+              "URL": "http://automationpractice.com/js/jquery/plugins/jquery.serialScroll.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 2887,
+              "HttpStatus": 200,
+              "Size": 2602,
+              "URL": "http://automationpractice.com/js/jquery/plugins/jquery.scrollTo.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2883,
+              "HttpStatus": 200,
+              "Size": 30893,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2876,
+              "HttpStatus": 200,
+              "Size": 21167,
+              "URL": "http://automationpractice.com/js/validate.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 157,
+              "EventId": 2874,
+              "HttpStatus": 200,
+              "Size": 2845,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/authentication.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2871,
+              "HttpStatus": 200,
+              "Size": 5373,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/tools/statesManagement.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2868,
+              "HttpStatus": 200,
+              "Size": 2028,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/tools/vatManagement.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 2865,
+              "HttpStatus": 200,
+              "Size": 2298,
+              "URL": "http://automationpractice.com/js/jquery/plugins/jquery.typewatch.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2854,
+              "HttpStatus": 200,
+              "Size": 4546,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/products-comparison.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 171,
+              "EventId": 2837,
+              "HttpStatus": 200,
+              "Size": 23135,
+              "URL": "http://automationpractice.com/js/jquery/plugins/fancybox/jquery.fancybox.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2834,
+              "HttpStatus": 200,
+              "Size": 36311,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 313,
+              "EventId": 2820,
+              "HttpStatus": 200,
+              "Size": 2564,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 343,
+              "EventId": 2817,
+              "HttpStatus": 200,
+              "Size": 27631,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/autoload/10-bootstrap.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 422,
+              "EventId": 2814,
+              "HttpStatus": 200,
+              "Size": 13824,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/js/global.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 157,
+              "EventId": 2811,
+              "HttpStatus": 200,
+              "Size": 16764,
+              "URL": "http://automationpractice.com/js/tools.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 171,
+              "EventId": 2806,
+              "HttpStatus": 200,
+              "Size": 4955,
+              "URL": "http://automationpractice.com/js/jquery/plugins/jquery.easing.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 2800,
+              "HttpStatus": 200,
+              "Size": 7199,
+              "URL": "http://automationpractice.com/js/jquery/jquery-migrate-1.2.1.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 141,
+              "EventId": 2793,
+              "HttpStatus": 200,
+              "Size": 96381,
+              "URL": "http://automationpractice.com/js/jquery/jquery-1.11.0.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2791,
+              "HttpStatus": 200,
+              "Size": 41,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2788,
+              "HttpStatus": 200,
+              "Size": 5467,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2781,
+              "HttpStatus": 200,
+              "Size": 7381,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/productcomments/productcomments.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 157,
+              "EventId": 2777,
+              "HttpStatus": 200,
+              "Size": 4429,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2775,
+              "HttpStatus": 200,
+              "Size": 1368,
+              "URL": "http://automationpractice.com/modules/themeconfigurator/css/hooks.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 2773,
+              "HttpStatus": 200,
+              "Size": 137,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 2771,
+              "HttpStatus": 200,
+              "Size": 447,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2762,
+              "HttpStatus": 200,
+              "Size": 375,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blocktags/blocktags.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2760,
+              "HttpStatus": 200,
+              "Size": 1619,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 2756,
+              "HttpStatus": 200,
+              "Size": 16261,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/product_list.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 187,
+              "EventId": 2753,
+              "HttpStatus": 200,
+              "Size": 2951,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 171,
+              "EventId": 2751,
+              "HttpStatus": 200,
+              "Size": 822,
+              "URL": "http://automationpractice.com/js/jquery/plugins/autocomplete/jquery.autocomplete.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 157,
+              "EventId": 2749,
+              "HttpStatus": 200,
+              "Size": 1323,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 2741,
+              "HttpStatus": 200,
+              "Size": 1743,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2739,
+              "HttpStatus": 200,
+              "Size": 1875,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2736,
+              "HttpStatus": 200,
+              "Size": 14326,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockcart/blockcart.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 140,
+              "EventId": 2733,
+              "HttpStatus": 200,
+              "Size": 2759,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 141,
+              "EventId": 2731,
+              "HttpStatus": 200,
+              "Size": 198,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 2725,
+              "HttpStatus": 200,
+              "Size": 4895,
+              "URL": "http://automationpractice.com/js/jquery/plugins/fancybox/jquery.fancybox.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 172,
+              "EventId": 2723,
+              "HttpStatus": 200,
+              "Size": 856,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/authentication.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2721,
+              "HttpStatus": 200,
+              "Size": 12234,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/autoload/uniform.default.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 2719,
+              "HttpStatus": 200,
+              "Size": 1433,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/autoload/responsive-tables.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 171,
+              "EventId": 2717,
+              "HttpStatus": 200,
+              "Size": 340,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/autoload/highdpi.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 140,
+              "EventId": 2712,
+              "HttpStatus": 200,
+              "Size": 210625,
+              "URL": "http://automationpractice.com/themes/default-bootstrap/css/global.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 1688,
+              "EventId": 2684,
+              "HttpStatus": 200,
+              "Size": 34869,
+              "URL": "http://automationpractice.com/index.php?controller=authentication&back=my-account"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adobe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "15.236.176.210",
+          "IncludeInScript": false,
+          "Name": "sstats.adobe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 2675,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s1626462843305?AQB=1&ndh=1&pf=1&t=23%2F1%2F2022%2013%3A6%3A4%203%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.7&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 93,
+              "EventId": 2668,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s13690069617071?AQB=1&ndh=1&pf=1&t=23%2F1%2F2022%2013%3A6%3A4%203%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.7&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 2658,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s14428440477189?AQB=1&ndh=1&pf=1&t=23%2F1%2F2022%2013%3A6%3A4%203%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.7&v2=sideload&v3=prod&v4=not_set&s=1366x768&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 5
+}

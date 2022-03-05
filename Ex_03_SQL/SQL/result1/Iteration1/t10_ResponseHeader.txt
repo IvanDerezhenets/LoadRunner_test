@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+Server: Microsoft-IIS/8.0
+Set-Cookie: ASP.NET_SessionId=vujm4oxamx3bvikrkprvwkp4; domain=www.sql.ru; path=/; secure; HttpOnly; SameSite=Lax
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Feature-Policy: camera 'none'; microphone 'none' 
+Strict-Transport-Security: max-age=86400; includeSubDomains
+Date: Thu, 03 Mar 2022 18:03:17 GMT
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Vanya\Documents\VuGen\Scripts\IPR\Wishlist_2
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\vanya\documents\vugen\scripts\ipr\wishlist_2\\logfile.log
+c:\users\vanya\documents\vugen\scripts\ipr\wishlist_2\\combined_Wishlist_2.c
+c:\users\vanya\documents\vugen\scripts\ipr\wishlist_2\\pre_cci.c

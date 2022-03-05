@@ -1,0 +1,8 @@
+GET /blogs/iyun/2267 HTTP/1.1
+User-Agent: Chrome
+Accept-Encoding: identity
+Accept-Language: *
+Accept: */*
+Connection: Keep-Alive
+Host: www.sql.ru
+

@@ -1,0 +1,11 @@
+[t10]
+FileName1=t10.htm
+URL1=http://automationpractice.com/index.php?controller=order-confirmation&id_cart=4262502&id_module=3&id_order=404442&key=78e55637ce01c42cd4565112055ff05d
+Total=1
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

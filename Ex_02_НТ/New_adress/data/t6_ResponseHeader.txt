@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+CONTENT-TYPE: text/xml; charset="utf-8"
+CONTENT-LENGTH: 1312
+Date: Thu, 01 Jan 1970 00:13:13 GMT
+connection: close
+Application-URL: http://192.168.0.117:8080/ws/app/
+SERVER: SHP, UPnP/1.0, Samsung UPnP SDK/1.0
+

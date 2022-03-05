@@ -1,0 +1,12 @@
+POST /index.php?rand=1645606426876 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://automationpractice.com/index.php?id_category=8&controller=category
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: automationpractice.com
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYZeTbcnTdjqoYlfD4MzcbKCaG8ghFJ5xj60kNPXeI5MR%2B5RhSv6wMmK8JR23AhbZrLC4l%2BQU1hOMSKYOIijGBrZxdlx7j6Czadu10Oo%2BcyB84nXVlNhhrAzqG9cYAKt4mj2MwEU4X5OyUIeRUC0IY1XCwMykpLx92GV65aCgWdo1DkQOXhp6NdKOx5zvY0L4KqpyB5rYNib35aXLsztHwv60%2BN1cr26v14RC1%2Bm6CBxTpWMI2mDpy5ki%2BcARe9r2rIrAZn56mveASgFJtP5Ej28C6R7SR4reCLjz%2Feu0jd1cxxXgsAG3%2BlSFmUNF%2F8IvtmCfrY2fRm65H9x5cWaGUilDe3gHTtWEFBP07u7Mg18fB6Wn1f5NoYulQEI5TjZrxq5Ky03fDZCW2NRSpWxA1UH27auuVGreHfACyPfx1%2BAK000330
+Content-Length: 89
+

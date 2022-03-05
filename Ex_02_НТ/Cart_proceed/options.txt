@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Vanya\Documents\VuGen\Scripts\IPR\Cart_proceed
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\vanya\documents\vugen\scripts\ipr\cart_proceed\\logfile.log
+c:\users\vanya\documents\vugen\scripts\ipr\cart_proceed\\combined_Cart_proceed.c
+c:\users\vanya\documents\vugen\scripts\ipr\cart_proceed\\pre_cci.c

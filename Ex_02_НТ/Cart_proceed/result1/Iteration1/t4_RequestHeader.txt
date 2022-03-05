@@ -1,0 +1,12 @@
+POST /index.php?controller=authentication HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://automationpractice.com/index.php?controller=authentication&back=my-account
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: automationpractice.com
+Cookie: PrestaShop-a30a9934ef476d11b6cc3c983616e364=4lAtOyVmK5WkTUKgkRQcYZeTbcnTdjqoYlfD4MzcbKCaG8ghFJ5xj60kNPXeI5MR%2B5RhSv6wMmK8JR23AhbZrPzsMFf5hD%2BANIMpsXfBGuxI83q1m2yvwD8GLRAifYJSqXTBiZYYHUELYHpbIRH%2Bd9oaZ3jIKRMZ0ZY4uFS6kQU%3D000119
+Content-Length: 69
+

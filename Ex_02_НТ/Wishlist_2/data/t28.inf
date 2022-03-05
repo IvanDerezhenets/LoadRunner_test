@@ -1,0 +1,17 @@
+[t28]
+FileName1=t28.htm
+URL1=http://automationpractice.com/index.php?controller=authentication&back=http%3A%2F%2Fautomationpractice.com%2Findex.php%3Ffc%3Dmodule%26module%3Dblockwishlist%26controller%3Dmywishlist
+Total=4
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_28.xml
+FileName2=t28_order-step-done-last.png
+URL2=http://automationpractice.com/themes/default-bootstrap/img/order-step-done-last.png
+FileName3=t28_order-step-a.png
+URL3=http://automationpractice.com/themes/default-bootstrap/img/order-step-a.png
+FileName4=t28_order-step-current.png
+URL4=http://automationpractice.com/themes/default-bootstrap/img/order-step-current.png
+[ProtocolInfo]
+ProtocolId=QTWeb

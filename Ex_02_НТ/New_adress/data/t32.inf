@@ -1,0 +1,15 @@
+[t32]
+FileName1=t32.htm
+URL1=http://automationpractice.com/index.php?controller=address
+Total=3
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_32.xml
+FileName2=t32_sprite.png
+URL2=http://automationpractice.com/themes/default-bootstrap/img/jquery/uniform/sprite.png
+FileName3=t32_form-ok.png
+URL3=http://automationpractice.com/themes/default-bootstrap/img/icon/form-ok.png
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,1012 @@
+[API Trapper      (35a4:3774)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (10dc:2244)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1b40:18f0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1b40:2a0c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1b40:2a0c)] Load Network Traffic Analyzers:
+[Network Analyzer (1b40:2a0c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1b40:2a0c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1b40:2a0c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1b40:2a0c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1b40:2a0c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1b40:2a0c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1b40:2a0c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1b40:2a0c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1b40:2ba4)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.210.163:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.209.173:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1b40:1874)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.209.173:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1b40:1874)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:1844)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:1844)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[API Trapper      (12f0:1ae4)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Web Request      (1b40:2ba4)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=98"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  1) Client -> Server @ : 459 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.210.174:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid:  1) Server -> Client : 322 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:3af8)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:3af8)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:28a8)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:28a8)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[API Trapper      (3460:339c)] Recording in 32-bit mode: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 13.36.218.177:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1b40:2768)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[API Trapper      ( 710:2580)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1b40:2ba4)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1b40:2768)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Web Request      (1b40:2ba4)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s04294525224136?AQB=1&ndh=1&pf=1&t=23%2F1%2F2022%2011%3A52%3A33%203%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.7&v2=sideload&v3=prod&v4=not_set&s=1366x768&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Client -> Server @ : 2129 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:3a14)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Server -> Client : 808 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:3a54)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 74.125.131.188:5228   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s04235226648239?AQB=1&ndh=1&pf=1&t=23%2F1%2F2022%2011%3A52%3A33%203%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.7&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Client -> Server @ : 2089 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:3a14)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:31f8)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:3874)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /BestLocation?client_auth_hash=5a0f44ee25333abc91a747cb796e3d31&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1645606353"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Client -> Server @ : 701 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Server -> Client : 808 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:29c8)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1b40:3a54)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:31f8)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:3874)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1b40:2ba4)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s04958130019139?AQB=1&ndh=1&pf=1&t=23%2F1%2F2022%2011%3A52%3A33%203%20-180&fid=7D401A07715FB0DE-0C8A1DAC4682FC20&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.7&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Client -> Server @ : 2078 bytes (SSL)(Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  7) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  8) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /dns-query?dns=AAABAAABAAAAAAABA3d3dwdnc3RhdGljA2NvbQAAAQABAAApEAAAAAAAAFQADABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  9) Client -> Server @ : 345 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:29c8)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2cc8)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2cc8)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2ba4)]   (Sid: 10) Client -> Server @ : 155 bytes (SSL)
+[Network Analyzer (1b40:2ba4)]   (Sid:  8) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /Notifications?client_auth_hash=5a0f44ee25333abc91a747cb796e3d31&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1645606353"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 11) Client -> Server @ : 702 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid:  9) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid:  7) Server -> Client : 1053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2a6c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Server -> Client : 808 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Server -> Client : 852 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 10) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 10) Server -> Client : 66 bytes (SSL)
+[Network Analyzer (1b40:2ba4)]   (Sid: 10) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (1b40:2a6c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1b40:2ba4)] "GET /Session?client_auth_hash=b45311960563889424a1dc0850bc2e84&platform=chrome&session_auth_hash=38083609%3A1%3A1607637999%3A41bd094d05ccea5ccbabe4175195f5d9b842c24303%3A06fa52736806a3ff9a563479131373385dec992109&time=1645606359"   
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Client -> Server @ : 696 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 11) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 11) Server -> Client : 487 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 11) Server -> Client : 194 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 104.20.26.217:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Server -> Client : 1026 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:376c)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:376c)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1b40:2ba4)] "GET /"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 13) Client -> Server @ : 479 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 13) Server -> Client : 332 bytes (SSL) (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 13) Client -> Server @ : 479 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 13) Server -> Client : 332 bytes (SSL) (Service=HTTP)
+[User action                 ] StartTransactionEvent 1_begin [Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1b40:2ba8)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:2ba8)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2ba4)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=authentication&back=my-account"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 723 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/global.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Client -> Server @ : 657 bytes (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/autoload/highdpi.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 607 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/autoload/responsive-tables.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 677 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/autoload/uniform.default.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 675 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/fancybox/jquery.fancybox.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 664 bytes (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1674 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 3130 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 5163 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockbanner/blockbanner.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 682 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/authentication.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 665 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockcart/blockcart.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 678 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockcategories/blockcategories.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 690 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 690 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.209.202:80   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 438 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 1123 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /css?family=Open+Sans:300,600&subset=latin,latin-ext"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 21) Client -> Server @ : 372 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 688 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 9212 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 3000 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2116 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 12051 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockcontact/blockcontact.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 684 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 21) Server -> Client : 1269 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 690 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/autocomplete/jquery.autocomplete.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 672 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/product_list.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 663 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1984 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocksearch/blocksearch.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 682 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 1564 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocktags/blocktags.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 678 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 1062 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 514 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 686 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockviewed/blockviewed.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 682 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 3113 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1860 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /modules/themeconfigurator/css/hooks.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 657 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 686 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 615 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/productcomments/productcomments.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 690 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 687 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 688 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 377 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1609 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/jquery-1.11.0.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 633 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1992 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/jquery-migrate-1.2.1.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 640 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 7622 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/jquery.easing.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 637 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 280 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/tools.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 614 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1691 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/global.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 640 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 3437 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 5210 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/autoload/10-bootstrap.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 659 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 670 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2029 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 6695 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 669 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2291 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 2819 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 5356 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/fancybox/jquery.fancybox.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 648 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/products-comparison.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 653 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 13390 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1107 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 4801 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/jquery.typewatch.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 640 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/tools/vatManagement.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 653 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 628 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 672 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/tools/statesManagement.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Client -> Server @ : 656 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/authentication.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 648 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1214 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/validate.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1753 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 2283 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blockcart/ajax-cart.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 661 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/jquery.scrollTo.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 639 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 4289 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/jquery.serialScroll.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Client -> Server @ : 643 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 1761 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/bxslider/jquery.bxslider.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 648 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 13390 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 2857 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/tools/treeManagement.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 654 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 929 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Client -> Server @ : 673 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 4016 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/plugins/autocomplete/jquery.autocomplete.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 656 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1568 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1691 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 665 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 672 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1985 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 3216 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 3311 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Client -> Server @ : 669 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 676 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 670 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 2646 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2191 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 3854 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 543 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 2750 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 2799 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /modules/blockbanner/img/sale70.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Client -> Server @ : 698 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/logo.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Client -> Server @ : 676 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/c/3-0_thumb.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Client -> Server @ : 683 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/c/3-1_thumb.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Client -> Server @ : 683 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/font/fontawesome-webfont.woff?v=3.2.1"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 692 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/footer-bg.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Server -> Client : 1404 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Server -> Client : 2437 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Server -> Client : 1043 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Server -> Client : 6843 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.209.195:80   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 6695 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Client -> Server @ : 403 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Server -> Client : 324 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.210.138:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Server -> Client : 2580 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40: 55c)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40: 55c)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /v1/pages/ChRDaHJvbWUvOTguMC40NzU4LjEwMhIQCeqL1ZB2A1shEgUN8aNb4xIQCdn-OObv-dVFEgUNFrfrORIXCapgApO5XvX3EgUNeG8SGRIFDVd69_0SEAnUFIBXvQDnzxIFDXhvEhk=?alt=proto"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 23) Client -> Server @ : 595 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 2338 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/favicon.ico?1461205423"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Client -> Server @ : 690 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 23) Server -> Client : 661 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Server -> Client : 1909 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 14) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 1_begin [User action                 ] StartTransactionEvent 2_login [Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (1b40:2ba4)] "POST /index.php?controller=authentication"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Client -> Server @ : 1007 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 1561 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=my-account"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Client -> Server @ : 1096 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/my-account.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 25) Client -> Server @ : 915 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Server -> Client : 3394 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 25) Server -> Client : 2408 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 25) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent 2_login [User action                 ] StartTransactionEvent 3_choose_clothes [Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 8.8.4.4:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 216.58.210.131:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (1b40: 974)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40: 974)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1b40:36e0)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b40:36e0)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (1b40:2ba4)] "POST /service/update2/json?cup2key=11:6WO6Wv9AyK6ADsUKVLYElAoyjo6nhROZCphojDkJFJw&cup2hreq=046d35289e57de1600f55e9d1566668285ff9fbfab4870a6d88ff0c8bebd7179"
+[Network Analyzer (1b40:2ba4)]   (Sid: 27) Client -> Server @ : 1435 bytes (SSL)(Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /index.php?id_category=8&controller=category"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Client -> Server @ : 1062 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 27) Client -> Server @ : 9268 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 27) Server -> Client : 1268 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 27) Server -> Client : 1090 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 27) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/category.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 945 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 10712 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 8034 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 302 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/scenes.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Client -> Server @ : 943 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 31)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/themes/base/jquery.ui.core.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Client -> Server @ : 947 bytes (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 1736 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1127 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2427 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/themes/base/jquery.ui.slider.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 949 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/themes/base/jquery.ui.theme.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Client -> Server @ : 948 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/modules/blocklayered/blocklayered.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Client -> Server @ : 970 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/category.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Client -> Server @ : 928 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/modules/blocklayered/blocklayered.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Client -> Server @ : 953 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/jquery.ui.core.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Client -> Server @ : 923 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 1555 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 3674 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 5356 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/jquery.ui.widget.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 925 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/jquery.ui.mouse.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Client -> Server @ : 924 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/jquery.ui.slider.min.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Client -> Server @ : 925 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 3205 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 3060 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 893 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 418 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 5404 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/loader.gif"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 964 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1085 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/2/0/20-small_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Client -> Server @ : 980 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /modules/blockstore/store.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Client -> Server @ : 978 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/c/9-medium_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Client -> Server @ : 976 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/c/10-medium_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Client -> Server @ : 977 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/c/11-medium_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Client -> Server @ : 977 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 2620 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/8/8-home_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 976 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2288 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 2250 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 9297 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 6871 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 3216 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 1882 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/c/8-category_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Client -> Server @ : 978 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/1/0/10-home_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 979 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/1/2/12-home_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Client -> Server @ : 979 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/1/6/16-home_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Client -> Server @ : 979 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/2/0/20-home_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Client -> Server @ : 979 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/jquery/uniform/sprite.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Client -> Server @ : 1018 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 587 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 9373 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 4017 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Client -> Server @ : 1014 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 2251 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 4239 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Client -> Server @ : 1023 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Server -> Client : 6899 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /js/jquery/ui/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 1014 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Server -> Client : 2718 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Server -> Client : 2249 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 337 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 326 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 328 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 27) Connection Terminated (by Client)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/bg_bt.gif"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Client -> Server @ : 984 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/functional-bt-shadow.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Client -> Server @ : 1005 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 28) Connection Terminated (by Server)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/price-container-bg.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Client -> Server @ : 1003 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Server -> Client : 555 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Server -> Client : 289 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 34)  PROXIED!
+[Web Request      (1b40:2ba4)] "POST /index.php?rand=1645606426876"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 34) Client -> Server @ : 1232 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 34) Server -> Client : 1025 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 34) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/1/0/10-cart_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 34) Client -> Server @ : 979 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 34) Server -> Client : 2193 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 34) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent 3_choose_clothes [User action                 ] StartTransactionEvent 4_checkout [Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 35)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=order"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Client -> Server @ : 1077 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 10712 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 4017 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/css/addresses.css"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Client -> Server @ : 929 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Server -> Client : 3996 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Server -> Client : 699 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/cart-summary.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Client -> Server @ : 915 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/p/1/0/10-small_default.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Client -> Server @ : 963 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Server -> Client : 1591 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 1438 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/order-step-a.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Client -> Server @ : 991 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/order-step-current.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Client -> Server @ : 997 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Server -> Client : 825 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Server -> Client : 584 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 37) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 36) Connection Terminated (by Server)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 38)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=order&step=1"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Client -> Server @ : 1067 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/order-address.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Client -> Server @ : 923 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 4518 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Server -> Client : 5360 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/order-step-done.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Client -> Server @ : 994 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/order-step-done-last.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Client -> Server @ : 999 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Server -> Client : 759 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Server -> Client : 828 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 39) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 38) Connection Terminated (by Server)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 40)  PROXIED!
+[Web Request      (1b40:2ba4)] "POST /index.php?controller=order"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Client -> Server @ : 1273 bytes (Service=HTTP)
+[API Trapper      (2da4:1380)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 13390 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 1339 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/js/order-carrier.js"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 41) Client -> Server @ : 916 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Server -> Client : 2690 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (1b40:2ba4)]   (Sid: 41) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 41) Server -> Client : 1145 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /img/s/2.jpg"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 42) Client -> Server @ : 944 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 42) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 42) Server -> Client : 120 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 40) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 41) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 42) Connection Terminated (by Server)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 43)  PROXIED!
+[Web Request      (1b40:2ba4)] "POST /index.php?controller=order&multi-shipping="   
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Client -> Server @ : 1278 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 2228 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 44)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/cheque.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Client -> Server @ : 1015 bytes (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /themes/default-bootstrap/img/bankwire.png"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 44) Client -> Server @ : 1017 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 44) Server -> Client : 1115 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Server -> Client : 1016 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (1b40:2ba4)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 45)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /index.php?fc=module&module=bankwire&controller=payment"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Client -> Server @ : 1134 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 6695 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Server -> Client : 2160 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 45) Connection Terminated (by Server)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 46)  PROXIED!
+[Web Request      (1b40:2ba4)] "POST /index.php?fc=module&module=bankwire&controller=validation"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 46) Client -> Server @ : 1303 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 46) Server -> Client : 399 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2ba4)]   (Sid: 46) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 47)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=order-confirmation&id_cart=4262502&id_module=3&id_order=404442&key=78e55637ce01c42cd4565112055ff05d"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 47) Client -> Server @ : 1238 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 47) Server -> Client : 13390 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer (1b40:2ba4)]   (Sid: 47) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 47) Server -> Client : 12051 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 47) Server -> Client : 1624 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 47) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent 4_checkout [User action                 ] StartTransactionEvent 5_logout [Network Analyzer (1b40:2a0c)] Address lookup for DESKTOP-TSBGQK3 = 192.168.0.116
+[Network Analyzer (1b40:2a0c)] Request Connection: Remote Server @ 173.231.240.87:80   (Service=)  (Sid= 48)  PROXIED!
+[Web Request      (1b40:2ba4)] "GET /index.php?mylogout="   
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Client -> Server @ : 1143 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 731 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=order-confirmation&id_cart=4262502&id_module=3&id_order=404442&key=78e55637ce01c42cd4565112055ff05d"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Client -> Server @ : 928 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 285 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=history"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Client -> Server @ : 836 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 305 bytes  (Service=HTTP)
+[Web Request      (1b40:2ba4)] "GET /index.php?controller=authentication&back=history"   
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Client -> Server @ : 856 bytes (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 5356 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 4017 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 1339 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Server -> Client : 728 bytes  (Service=HTTP)
+[Network Analyzer (1b40:2ba4)]   (Sid: 48) Connection Terminated (by Server)

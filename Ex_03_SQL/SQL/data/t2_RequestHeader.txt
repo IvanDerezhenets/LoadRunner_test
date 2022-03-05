@@ -1,0 +1,16 @@
+GET /l10n/client.ru.min.json HTTP/1.1
+Host: s7.addthis.com
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://www.sql.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.sql.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru
+

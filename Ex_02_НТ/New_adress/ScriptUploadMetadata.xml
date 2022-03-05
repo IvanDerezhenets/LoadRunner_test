@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>New_adress</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="New_adress.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="New_adress.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="NewParam(1).dat" Filter="2" />
+    <FileEntry Name="city.dat" Filter="2" />
+    <FileEntry Name="login.dat" Filter="2" />
+    <FileEntry Name="postcode.dat" Filter="2" />
+    <FileEntry Name="combined_New_adress.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="145788388440.idx" Filter="1" />
+    <FileEntry Name="184222542440.idx" Filter="1" />
+    <FileEntry Name="229203580440.idx" Filter="1" />
+    <FileEntry Name="232160174440.idx" Filter="1" />
+    <FileEntry Name="244240535440.idx" Filter="1" />
+    <FileEntry Name="24424053544_AIy.691.idx" Filter="1" />
+    <FileEntry Name="24424053544_BS5.951.idx" Filter="1" />
+    <FileEntry Name="24424053544_DKb.193.idx" Filter="1" />
+    <FileEntry Name="24424053544_Ecy.595.idx" Filter="1" />
+    <FileEntry Name="24424053544_mti.981.idx" Filter="1" />
+    <FileEntry Name="24424053544_NoI.9.idx" Filter="1" />
+    <FileEntry Name="24424053544_Rw6.165.idx" Filter="1" />
+    <FileEntry Name="24424053544_tec.923.idx" Filter="1" />
+    <FileEntry Name="24424053544_w7s.693.idx" Filter="1" />
+    <FileEntry Name="24424053544_zAW.889.idx" Filter="1" />
+    <FileEntry Name="50802756440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0J8.501.log" Filter="1" />
+    <FileEntry Name="mdrv5fi.321.log" Filter="1" />
+    <FileEntry Name="mdrv8ns.587.log" Filter="1" />
+    <FileEntry Name="mdrv9tE.199.log" Filter="1" />
+    <FileEntry Name="mdrvcBv.417.log" Filter="1" />
+    <FileEntry Name="mdrvD9D.789.log" Filter="1" />
+    <FileEntry Name="mdrvftD.555.log" Filter="1" />
+    <FileEntry Name="mdrvHKO.241.log" Filter="1" />
+    <FileEntry Name="mdrvHqy.529.log" Filter="1" />
+    <FileEntry Name="mdrvhYr.633.log" Filter="1" />
+    <FileEntry Name="mdrvkBs.229.log" Filter="1" />
+    <FileEntry Name="mdrvlJ1.889.log" Filter="1" />
+    <FileEntry Name="mdrvmON.501.log" Filter="1" />
+    <FileEntry Name="mdrvoea.537.log" Filter="1" />
+    <FileEntry Name="mdrvSre.973.log" Filter="1" />
+    <FileEntry Name="mdrvXRa.933.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="New_adress.c.pickle" Filter="1" />
+    <FileEntry Name="New_adress.ci" Filter="1" />
+    <FileEntry Name="New_adress.prm.bak" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="password.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="Wishlist_2.prm.bak" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

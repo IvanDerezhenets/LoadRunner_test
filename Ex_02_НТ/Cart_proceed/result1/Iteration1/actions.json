@@ -1,0 +1,110 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: index.php",
+                "infFile": "t2.inf",
+                "time": 1645733096535
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: index.php_2",
+                "infFile": "t4.inf",
+                "time": 1645733098102
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Dresses",
+                "infFile": "t5.inf",
+                "time": 1645733100262
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: index.php_3",
+                "infFile": "t7.inf",
+                "time": 1645733101084
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: index.php_4",
+                "infFile": "t8.inf",
+                "time": 1645733102317
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Proceed to checkout",
+                "infFile": "t10.inf",
+                "time": 1645733103311
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: index.php_5",
+                "infFile": "t12.inf",
+                "time": 1645733104380
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: index.php_6",
+                "infFile": "t14.inf",
+                "time": 1645733105362
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: Pay by bank wire (order processing will be longer)",
+                "infFile": "t16.inf",
+                "time": 1645733106418
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Data: index.php_7",
+                "infFile": "t21.inf",
+                "time": 1645733109278
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: Sign out",
+                "infFile": "t22.inf",
+                "time": 1645733113666
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_begin",
+                "rawStartTime": 1645733092071,
+                "rawEndTime": 1645733096536,
+                "thinkTime": 0.0,
+                "wastedTime": 0.21704649925231934
+            },
+            {
+                "transactionName": "2_login",
+                "rawStartTime": 1645733096538,
+                "rawEndTime": 1645733098103,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013232231140136719
+            },
+            {
+                "transactionName": "3_choose_clothes",
+                "rawStartTime": 1645733098106,
+                "rawEndTime": 1645733101086,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03820991516113281
+            },
+            {
+                "transactionName": "4_checkout",
+                "rawStartTime": 1645733101088,
+                "rawEndTime": 1645733109280,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07614731788635254
+            },
+            {
+                "transactionName": "5_logout",
+                "rawStartTime": 1645733109282,
+                "rawEndTime": 1645733113668,
+                "thinkTime": 0.0,
+                "wastedTime": 0.009427070617675782
+            }
+        ]
+    }
+]

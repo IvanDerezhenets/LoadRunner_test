@@ -1,0 +1,15 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(27): web_url("index.php") was successful, 753402 body bytes, 15035 header bytes, 53 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(37): Notify: Transaction "1_begin" ended with a "Pass" status (Duration: 11,6739 Wasted Time: 0,0031).	[MsgId: MMSG-16871]
+Action.c(39): Notify: Transaction "2_login" started.	[MsgId: MMSG-16999]
+Action.c(42): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(42): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(51): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(51): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(55): web_submit_data("index.php_2") started  	[MsgId: MMSG-26355]
+Action.c(55): Warning -26665: HTTP Status Code is missing or invalid. Assuming "200 OK"  	[MsgId: MWAR-26665]
+Action.c(55): Error -35049: No match found for the requested parameter "token". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+Action.c(55): Error -26366: "Text=My account" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

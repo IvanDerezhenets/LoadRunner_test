@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\Users\Vanya\Documents\VuGen\Scripts\IPR\Scenario3.lrs
+Completed=0
