@@ -3,9 +3,9 @@ Action()
 
 	lr_start_transaction("1_begin");
 
-		web_reg_save_param_regexp(
+	web_reg_save_param_regexp(
 		"ParamName=day",
-		"RegExp=(\\d{2})&nbsp;",
+		"RegExp=РґРѕР±Р°РІР»РµРЅРѕ: (.*?)&nbsp",
 		LAST);
  	
 	web_reg_save_param_regexp(
@@ -14,13 +14,14 @@ Action()
 		LAST);
 	
 	web_reg_save_param_regexp(
-		"ParamName=year",
-		"RegExp=&nbsp;(\\d{2})",
+		"ParamName=yy",
+		"RegExp=(\\d{2})&nbsp;(.*?)&nbsp;(\\d{2})",
+		"Group=3",
 		LAST);
 	
 	web_reg_save_param_regexp(
 		"ParamName=comment_count",
-		"RegExp=\комментов:\\s(\\d{1})<",
+		"RegExp=\ГЄГ®Г¬Г¬ГҐГ­ГІГ®Гў:\\s(\\d{1})<",
 		LAST);
 	
 	web_reg_save_param_regexp(
@@ -43,7 +44,7 @@ Action()
 
 	web_reg_save_param_regexp(
 		"ParamName=procomment",
-		"RegExp=\<a href\=\"(.*?)\"\\sclass\=\"comment\"\>Прокомментировать\<\/a\>",
+		"RegExp=\<a href\=\"(.*?)\"\\sclass\=\"comment\"\>ГЏГ°Г®ГЄГ®Г¬Г¬ГҐГ­ГІГЁГ°Г®ГўГ ГІГј\<\/a\>",
 		LAST);		
 
 	web_reg_save_param_regexp(
