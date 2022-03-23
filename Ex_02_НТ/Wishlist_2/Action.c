@@ -34,7 +34,7 @@ Action()
 		LAST);
 
 	web_reg_find("Search=All",
-		"Text=My account",
+		"Text=Sign out",
 		LAST);
 
 	web_submit_data("index.php_2",
@@ -72,7 +72,7 @@ Action()
 	lr_start_transaction("4_add_wishlist");
 
 	web_reg_find("Search=All",
-		"Text=My wishlists",
+		"Text={SEC}",
 		LAST);
 
 	web_submit_data("index.php_3",
