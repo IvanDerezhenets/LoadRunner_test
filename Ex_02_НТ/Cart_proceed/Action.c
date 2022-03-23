@@ -53,10 +53,13 @@ Action()
 
 	lr_end_transaction("2_login",LR_AUTO);
     lr_start_transaction("3_choose_clothes");
-	
-    
-   	web_reg_find("Search=All",
-		"Text=Showing 1 - 5 of 5 items",
+	    
+	web_reg_find("Search=All",
+		"Text=Dresses",
+		LAST);
+
+	web_reg_find("Search=Body",
+		"Text=Product successfully added to your shopping cart",
 		LAST);
 
  web_url("Dresses",
