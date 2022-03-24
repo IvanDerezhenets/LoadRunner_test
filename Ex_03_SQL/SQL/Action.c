@@ -10,13 +10,12 @@ Action()
  	
 	web_reg_save_param_regexp(
 		"ParamName=month",
-		"RegExp=&nbsp;(.*?)&nbsp;",
+		"RegExp=добавлено: \d{1,2}&nbsp;(.*?)&nbsp;",
 		LAST);
 	
 	web_reg_save_param_regexp(
 		"ParamName=yy",
-		"RegExp=(\\d{2})&nbsp;(.*?)&nbsp;(\\d{2})",
-		"Group=3",
+		"RegExp=добавлено: \d{1,2}&nbsp;...&nbsp;(.*?)",
 		LAST);
 	
 	web_reg_save_param_regexp(
